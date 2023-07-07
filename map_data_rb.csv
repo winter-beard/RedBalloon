@@ -1,0 +1,831 @@
+_geo,business_name,job_roles,title,salary_from,salary_to,postal_code
+"[38.9342776, -77.1774801]", Northern Plumbing and Softening,"['Admin-Clerical', 'Construction', 'Customer Service', 'Design', 'General Business', 'General Labor', 'Installation-Maint-Repair', 'Management', 'Research', 'Sales', 'Security', 'Skilled Labor', 'Strategy-Planning', 'Supply Chain', 'Training', 'Transportation', 'Warehouse']",Journeyman Plumber,72800.0,83200.0,55432
+"[33.8358492, -118.3406288]",12 Outdoors,"['Management', 'Marketing', 'Retail', 'Sales']",State Director,,,37701
+"[33.6694649, -117.8231107]",1819 News,['Media-Journalism'],Reporter,,,35243
+"[33.6694649, -117.8231107]",208 Companies LLC,['Accounting'],Accountant,,,83814
+"[33.8358492, -118.3406288]",300 Financial Group,"['Consultant', 'Education', 'Entry Level', 'Insurance', 'Marketing', 'Other', 'Professional Services', 'Sales', 'Training']",Financial Services,,,
+"[33.6694649, -117.8231107]",300 Financial Group,"['Customer Service', 'Finance', 'Insurance', 'Professional Services', 'Sales']",Financial Services/Work From Home/Sales,,,
+"[46.7323875, -117.0001651]",300FInancial Group,"['Accounting', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Entry Level', 'Executive', 'Finance', 'General Business', 'Human Resources', 'Insurance', 'Management', 'Other', 'Professional Services', 'Training']","work from home, remote",,,
+"[47.6776832, -116.7804664]",33 Carpenters Construction,"['Business Development', 'Construction', 'Consultant', 'Customer Service', 'Installation-Maint-Repair', 'Management', 'Sales']",Sales Project Manager,30000.0,200000.0,60115
+"[41.850033, -87.6500523]",3LP Fresh Foods,"['Customer Service', 'Distribution-Shipping', 'Entry Level', 'General Business', 'General Labor', 'Grocery', 'Inventory', 'Supply Chain', 'Transportation']",Local Farm Food Driver,41600.0,41600.0,98057
+"[33.4483771, -112.0740373]",4Site Advisors,"['Admin-Clerical', 'Construction', 'Executive', 'Management']",Construction Project Manager - Owners Rep,95000.0,118000.0,
+"[33.4483771, -112.0740373]",A2A Integrated Logistics Inc,"['Health Care', 'Professional Services']",Surgical Technologist,62400.0,70720.0,55417
+"[33.4483771, -112.0740373]",Absolute Air,"['Installation-Maint-Repair', 'Skilled Labor']",HVAC Service Technician,,,75142
+"[33.4483771, -112.0740373]",Absolute Electric LLC,"['Customer Service', 'Installation-Maint-Repair', 'Skilled Labor']",Residential Service Electrician,37440.0,37440.0,20164
+"[33.4483771, -112.0740373]",Access Transmission,['Automotive'],Automotive Transmission Rebuilder,80000.0,100000.0,78247
+"[33.4483771, -112.0740373]",ADCO Distributors Inc,['Warehouse'],Assistant Warehouse Manager ,40000.0,55000.0,44702
+"[33.4483771, -112.0740373]",ADCO Distributors Inc,['Warehouse'],Warehouse Manager ,55000.0,70000.0,44702
+"[39.5349112, -119.7526886]",Advancing Alternatives,"['Accounting', 'Customer Service', 'Distribution-Shipping', 'Installation-Maint-Repair', 'Sales']",Inside Technical Sales & CSR,48880.0,52000.0,17603
+"[45.1823423, -122.8078718]",Advancing Alternatives,"['Marketing', 'Sales']",Ecommerce Manager,,,17603
+"[45.1823423, -122.8078718]",Advancing Alternatives,"['Customer Service', 'Sales']",Customer Service Representative,41600.0,45760.0,17603
+"[39.9975415, -85.7466439]",Advantage Marketing National Printing Broker,"['Professional Services', 'Sales']",Printing Sales Representative,,,
+"[43.6121087, -116.3915131]",AEM Mechanical Services,['Installation-Maint-Repair'],"Heating, Ventilation, Air Conditioning and Refrigeration Technician ",37440.0,62400.0,
+"[32.7830556, -96.8066667]",All Saints LLC dba Ava Wanas Montessori School,['Education'],Teacher's Aide,27040.0,27040.0,21771
+"[33.6356618, -96.6088805]",Allergy Solutions,['Health Care'],Registered Nurse (RN),74880.0,74880.0,80906
+"[26.1223084, -80.1433786]",Alliance Defending Freedom,['Legal'],Senior Facilities Assistant,,,
+"[33.0198431, -96.6988856]",Alliance Defending Freedom,['Legal'],"Senior Counsel, Parental Rights Advocacy",,,
+"[26.9297836, -82.0453664]",Alliance Defending Freedom,['Legal'],"Senior Counsel, Center for Life",,,85260
+"[45.4262617, -117.2787815]",Alliance Defending Freedom,['Legal'],"Senior Counsel, Center for Academic Freedom",,,
+"[37.8397626, -94.7082951]",Alliance Defending Freedom,['Legal'],Senior Counsel,,,
+"[37.8397626, -94.7082951]",Alliance Defending Freedom,"['Information Technology', 'QA-Quality Control']",Quality Assurance Analyst,,,85260
+"[25.8631515, -80.1928253]",Alliance Defending Freedom,['Admin-Clerical'],Project Coordinator,,,85260
+,Alliance Defending Freedom,['Legal'],Paralegal,,,
+,Alliance Defending Freedom,['Marketing'],On-Air Fundraising Coordinator,,,85260
+,Alliance Defending Freedom,['Information Technology'],Network Engineer,,,85260
+,Alliance Defending Freedom,"['Legal', 'Nonprofit-Social Services']","Legal Counsel, Center for Life",,,
+,Alliance Defending Freedom,['Legal'],"Legal Counsel, Center for Legislative Advocacy",,,
+,Alliance Defending Freedom,['Legal'],"Legal Counsel, Center for Christian Ministries",,,
+,Alliance Defending Freedom,['Legal'],"Legal Counsel, Allied Organization/Support CMA Legal Program",,,85260-2769
+"[29.7030024, -98.1244531]",Alliance Defending Freedom,['Legal'],Legal Counsel,,,
+,Alliance Defending Freedom,"['Admin-Clerical', 'Legal']",Legal Administrative Assistant,,,
+"[37.247206, -112.664377]",Alliance Defending Freedom,"['Admin-Clerical', 'Human Resources', 'Legal', 'Marketing', 'Nonprofit-Social Services']",Internship,,,85260-2769
+"[30.267153, -97.7430608]",Alliance Defending Freedom,"['Marketing', 'Other', 'Strategy-Planning']",Internal Communications Director,,,
+"[45.3565074, -122.840098]",Alliance Defending Freedom,"['Information Technology', 'Training']",IT Trainer,,,
+"[32.7830556, -96.8066667]",Alliance Defending Freedom,['Information Technology'],IT Project Manager,,,
+,Alliance Defending Freedom,"['Admin-Clerical', 'Human Resources']",HR Staffing Assistant,,,85260-2769
+"[43.4252776, -88.1834277]",Alliance Defending Freedom,['Admin-Clerical'],Executive Assistant,,,
+"[43.6121087, -116.3915131]",Alliance Defending Freedom,"['Admin-Clerical', 'Entry Level', 'Other']","Executive Administrator, Office of the CEO & President",,,
+"[43.6121087, -116.3915131]",Alliance Defending Freedom,['Other'],Event Coordinator,,,
+"[46.7323875, -117.0001651]",Alliance Defending Freedom,"['Entry Level', 'Other']",Event Registration Assistant,,,
+"[43.0605671, -88.1064787]",Alliance Defending Freedom,"['Entry Level', 'Information Technology']",Data Specialist,,,85260-2769
+"[46.7323875, -117.0001651]",Alliance Defending Freedom,"['Entry Level', 'Nonprofit-Social Services', 'Other']",Director of Transformational Partnerships,,,
+"[34.6890095, -82.1956679]",Alpha & Omega Computer & Network Service Inc,"['Customer Service', 'Information Technology', 'Installation-Maint-Repair', 'Professional Services', 'Security']",Service Desk Technician II,62500.0,72500.0,92648
+"[39.0770072, -84.1768795]",Alpha & Omega Computer & Network Service Inc,"['Business Development', 'Consultant', 'Customer Service', 'Design', 'Information Technology', 'Installation-Maint-Repair', 'Professional Services', 'Security', 'Strategy-Planning']",Systems Administrator,85000.0,95000.0,92648
+"[43.4252776, -88.1834277]",Alpine Lakes Real Estate,"['Real Estate', 'Sales']",Real Estate Agent,,,3253
+"[40.1226101, -75.0635049]","Altius Test Prep, LLC","['Education', 'General Business', 'Human Resources', 'Management', 'Science', 'Training']",Sr. Director of Mentoring & Student Success – Top Tier Secondary Ed Teachers Wanted (STEM),,,84604
+,"Altius Test Prep, LLC","['Business Development', 'Customer Service', 'Education', 'Executive', 'General Business', 'Management', 'Sales', 'Training']","Sr. Regional Director – Future Regional VP, Senior Partner",80000.0,80000.0,84604
+"[40.4275693, -79.9939418]",American Philanthropic,['Sales'],Account Executive,,,19380
+"[45.5607986, -94.1624895]","American Target Advertising, Inc.","['Admin-Clerical', 'Professional Services']",Political Executive Assistant to the Chairman,50000.0,60000.0,20110
+"[35.9250637, -86.86889]","American Target Advertising, Inc.","['Management', 'Media-Journalism']",Chief of Staff to the Chairman,,,20110
+"[39.6477653, -104.9877597]","American Target Advertising, Inc.","['Marketing', 'Media-Journalism']",Digital Fundraising Copywriter,,,20110
+"[39.6477653, -104.9877597]","American Target Advertising, Inc.","['Marketing', 'Media-Journalism']",Direct Response Copywriter - Postal Prospect,,,20110
+"[35.9250637, -86.86889]","American Target Advertising, Inc.","['Marketing', 'Media-Journalism']",Direct Response Copywriter - Postal Housefile,,,20110
+"[45.159967, -92.9932734]","American Target Advertising, Inc.","['Business Development', 'Marketing']",Direct Response Account Executive,,,20110
+"[34.0522342, -118.2436849]",Ammel Optometry LLC,['Health Care'],Optician/Team Lead,31200.0,31200.0,66049
+"[34.0522342, -118.2436849]",An E-Commerce Marketplace,"['Business Development', 'Construction', 'Executive', 'Management']",Director of Operations,70000.0,100000.0,
+"[34.0522342, -118.2436849]",Anedot,"['Engineering', 'Information Technology']","Software Engineer (Backend, Ruby, Go)",140000.0,190000.0,
+"[34.0522342, -118.2436849]",Anonymous,['Accounting'],Tax Preparer,40000.0,150000.0,66701
+,Anonymous,[],AUDITOR,80000.0,150000.0,66701
+"[38.6272733, -90.1978889]",Anonymous,['Legal'],Estate Planning Paralegal,52658.0,57073.0,78130
+"[38.6272733, -90.1978889]",Anonymous,[],Connecticut - Work From Home Enrollment Specialist,72000.0,96000.0,
+"[39.0437192, -77.4874899]",Anonymous,"['Accounting', 'Admin-Clerical', 'Human Resources']",Bookkeeper / Administrative Assistant,41600.0,47840.0,33838
+"[34.0522342, -118.2436849]",Anonymous,"['Accounting', 'Admin-Clerical', 'Banking', 'Finance', 'General Business', 'Human Resources']",Payroll/HR/Benefits,47840.0,62400.0,83616
+"[42.0333608, -88.0834059]",Anonymous,"['Business Development', 'Consultant', 'Facilities', 'Government', 'Management', 'Nonprofit-Social Services', 'Professional Services']",Conference Event Manager,,,
+"[39.0916586, -104.872758]",Anonymous,"['Design', 'Entry Level', 'Marketing', 'Media-Journalism', 'Other']",E-Mail Marketing Coordinator,50000.0,55000.0,
+,Anonymous,"['Entry Level', 'Finance', 'Marketing', 'Media-Journalism', 'Other', 'Telecommunications']",Fundraising Account Executive (entry/mid-level),50000.0,60000.0,
+,Anonymous,"['Accounting', 'Admin-Clerical', 'Banking', 'Customer Service', 'Manufacturing']",Bookkeeper / HR for a Metal Manufacturing Company,,,60163
+"[39.1156615, -77.5636015]",Anonymous,"['Accounting', 'Admin-Clerical', 'Finance', 'Human Resources', 'Management']",HR Specialist,50000.0,59999.98,
+"[30.4507462, -91.154551]",Anonymous,"['Entry Level', 'Government', 'Marketing', 'Nonprofit-Social Services', 'Strategy-Planning']",Field Organizer/Canvasser Deployment - Republican Jobs,32000.0,33000.0,
+"[39.1156615, -77.5636015]",Anonymous,['Management'],Campaign Manager,55000.0,60000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Consultant', 'Management', 'Marketing', 'Media-Journalism']",Digital Senior Account Manager,120000.0,130000.0,
+"[38.8951118, -77.0363658]",Anonymous,"['Consultant', 'Design', 'Marketing', 'Media-Journalism']",Digital Account Executive,90000.01,100000.0,
+"[39.1156615, -77.5636015]",Anonymous,"['Consultant', 'Design', 'Marketing', 'Media-Journalism']",Digital Director,120000.0,130000.0,
+,Anonymous,"['Finance', 'Legal', 'Strategy-Planning']",Program Manager,,,
+"[34.0966764, -117.7197785]",Anonymous,"['Accounting', 'Consultant', 'Executive', 'Finance', 'Management']",Chief Financial Officer,180000.0,200000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Accounting', 'Consultant']",Accountant,75000.0,100000.0,
+"[40.9995386, -75.1812913]",Anonymous,"['Consultant', 'Government', 'Nonprofit-Social Services', 'Other']",Job Description: Staff Director - Education Non-Profit,70000.0,80000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Government', 'Marketing', 'Nonprofit-Social Services', 'Other']",Senior Account Manager - Reputation Management firm,40000.0,60000.0,
+,Anonymous,"['Finance', 'Government', 'Nonprofit-Social Services']",Marketing and Development Associate (Entry/Mid-Level),40000.0,45000.0,
+"[38.8951118, -77.0363658]",Anonymous,"['Accounting', 'Human Resources']",Operations Manager,50000.0,70000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Accounting', 'Executive', 'Government', 'Human Resources', 'Marketing', 'Other']",Marketing and Communications Director - Political Polling Firm,80000.0,110000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Government', 'Nonprofit-Social Services', 'Other']",Part-Time Fundraising Scheduling Assistant,31200.0,37440.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Customer Service', 'Information Technology', 'Management']",Software Delivery Manager,,,
+,Anonymous,"['Accounting', 'Consultant', 'Design', 'Executive', 'Government', 'Marketing', 'Other', 'Telecommunications']",Deputy Digital Director,60000.0,70000.0,78701
+"[38.8951118, -77.0363658]",Anonymous,"['Consultant', 'Design', 'Entry Level', 'Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Other', 'Telecommunications']",Deputy Digital Director,42000.0,42000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Consultant', 'Finance', 'Government', 'Professional Services']",Campaign Treasurer / Compliance Manager (Mid-level role),60000.0,80000.0,78701
+"[33.5092103, -111.8990327]",Anonymous,"['Accounting', 'Finance', 'General Business', 'Government', 'Human Resources', 'Nonprofit-Social Services']",Operations Director,50000.0,70000.0,
+"[38.8951118, -77.0363658]",Anonymous,"['Consultant', 'Finance', 'Government', 'Management', 'Nonprofit-Social Services', 'Other', 'Professional Services', 'Telecommunications']",Finance/Fundraising Coordinator/Account Manager,40000.0,60000.0,
+"[33.5092103, -111.8990327]",Anonymous,"['Consultant', 'Design', 'Government', 'Other', 'Strategy-Planning', 'Telecommunications']",Client Strategy Manager,69999.99,75000.0,33101
+"[33.5092103, -111.8990327]",Anonymous,"['Business Development', 'Customer Service', 'Nonprofit-Social Services']",Major Gift Officer,,,
+"[33.5092103, -111.8990327]",Antioch Adoptions,"['Health Care', 'Hospitality-Hotel', 'Nonprofit-Social Services', 'Professional Services']","Foster Care Adoption Case Manager (BSW, MSW or PSYC req)",35360.0,35360.0,98052
+"[33.5092103, -111.8990327]",Apex Roofing,"['Admin-Clerical', 'Business Development', 'Marketing', 'Sales']",Sales and Marketing Specialist,40000.0,50000.0,83843
+"[33.5092103, -111.8990327]",Arche,"['Customer Service', 'Entry Level', 'General Labor', 'Other', 'Restaurant-Food Service', 'Skilled Labor']",Chef/Bar Back,22880.0,24960.0,76265
+"[39.1156615, -77.5636015]","Architectural Design, Inc",['Design'],Draftsperson,62400.0,83200.0,2653
+"[34.7303688, -86.5861037]",Arthur Murray Dance Studio Montclair,"['Customer Service', 'Entry Level', 'General Business', 'Hospitality-Hotel', 'Restaurant-Food Service']",Dance Instructor at Arthur Murray Montclair- No Experience Neccesary,,,7042
+"[39.1156615, -77.5636015]",Asha Partners,[],Bookkeeper,40000.0,50000.0,
+"[39.1156615, -77.5636015]",ASI Dental Specialties,"['Admin-Clerical', 'Engineering', 'Management', 'Manufacturing']",Administrative Assistant-Document Control,58240.0,58240.0,80124
+"[33.5092103, -111.8990327]",Averio Health Institute,['Health Care'],Associate Doctor,70000.0,80000.0,98273
+"[33.5092103, -111.8990327]",Averio Health Institute,"['Health Care', 'Restaurant-Food Service']",Kitchen Assistant for Healthcare Facility,33280.0,0.0,
+,Bastion Recruiting LLC,[],Remote Recruiter,52000.0,58000.0,
+"[36.1749705, -115.137223]",Bastion Recruiting LLC,[],Entry-Level Insurance Sales - Work From Home,62000.0,124000.0,
+"[43.4252776, -88.1834277]",Baytek International,"['Design', 'Engineering', 'Information Technology', 'Management']",Software Engineer Project Manager ,100000.0,140000.0,
+"[28.0836269, -80.6081089]",Baytek International,"['Engineering', 'Information Technology', 'Professional Services']",COMPUTER PROGRAMMER,,,78401
+"[27.5214269, -82.5723193]",BBE Boggs Engineering LLC,"['Engineering', 'Professional Services']",AutoCad Designer,,,
+"[27.5214269, -82.5723193]",BBE Boggs Engineering LLC,"['Engineering', 'Professional Services']",Land Development Engineer,,,33563
+"[27.5214269, -82.5723193]",Beck and Cale Physical Therapy of Santa Maria,['Health Care'],Physical Therapist or PTA- Outpatient Clinic,,,93454
+"[27.5214269, -82.5723193]",Behavioral Strides Therapy,"['Education', 'Professional Services']",Registered Behavior Technician,41600.0,41600.0,33484
+"[27.5214269, -82.5723193]",Bell Insurance Services,"['Business Development', 'Consultant', 'Executive', 'Finance', 'Insurance', 'Management', 'Marketing', 'Sales']",National Accounts Manager,75000.0,100000.0,
+"[48.3933561, -105.8822326]",Best Friends Veterinary Medical Center,[],Veterinary Receptionist,31200.0,37440.0,97239
+"[48.3933561, -105.8822326]",Best Premium Brokerage Inc,"['Admin-Clerical', 'Customer Service', 'Insurance']",Account Executive,,,11204
+"[33.6948279, -97.5225245]",Bethesda Health Clinic,['Health Care'],Nurse Practitioner,90000.0,105000.0,75702
+"[45.0860765, -93.2632821]","BJM & Associates, Inc.","['Admin-Clerical', 'Entry Level', 'General Labor', 'Legal']",Legal Secretary,,,40509
+"[32.8406946, -83.6324022]",Black Mountain Company,"['Engineering', 'General Labor', 'Manufacturing', 'Skilled Labor', 'Warehouse']",CNC Machine Machinist,45760.0,62400.0,
+,Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,45760.0,
+,Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,20.0,20.0,
+,Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,20.0,20.0,
+"[38.0682554, -120.5396457]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,41600.0,
+"[39.0250683, -83.5329731]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,0.0,
+"[29.4241219, -98.4936282]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,41579.2,
+"[27.3364347, -82.5306527]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,41600.0,
+"[27.3364347, -82.5306527]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,41600.0,
+"[27.3364347, -82.5306527]",Blitz Canvassing,[],Canvasser for DeSantis Presidential Campaign,41600.0,41600.0,
+"[27.3364347, -82.5306527]","Bobo Construction, Inc.","['Construction', 'Management']",Project Manager,90000.0,120000.0,95624
+"[36.3320197, -94.1185366]",Bombadil Downs Naturopathic Medicine,['Health Care'],Self-starter in Health or Allied Medical Services to join Naturopathic Medicine Office,,,17543
+"[32.725409, -97.3208496]",Boonzaaijer's Dutch Bakery,"['Customer Service', 'General Business', 'Grocery', 'Management', 'Restaurant-Food Service', 'Retail']",Lead Bakery Clerk,37440.0,41600.0,80907
+"[40.8501002, -73.8662464]",BOYLES LAW,"['Admin-Clerical', 'Legal', 'Research']",Legal Analyst,,,83814
+"[34.4954448, -77.5549696]",Bratney Companies/Aly Funk,"['Construction', 'General Labor', 'Management', 'Other']",Travelling Ag Millwright Foreman/Superintendent ,80000.0,120000.0,
+,BRAVE Books ,['Marketing'],Head of Video,,,77385
+"[41.7898313, -69.9897397]",Bravo intimates,"['Customer Service', 'Design']",Bra Fitter,,,48073
+,Brian's German Auto,"['Admin-Clerical', 'Automotive', 'Business Development', 'Customer Service', 'Finance', 'General Business', 'Installation-Maint-Repair', 'Other', 'Professional Services', 'Purchasing-Procurement', 'QA-Quality Control', 'Retail', 'Telecommunications', 'Transportation']",Administrative assistant/receptionist for German automotive repair facility. ,35000.0,45000.0,70809
+"[34.1477849, -118.1445155]",Buffer Insurance,"['Insurance', 'Sales']",Insurance Agent,,,76092
+"[40.9312099, -73.8987469]",Bullseye Precision Bookkeeping,"['Admin-Clerical', 'Consultant', 'Entry Level', 'Finance']",Accounts Payable Data Entry,33280.0,41600.0,
+"[40.7142691, -74.0059729]",Business Cleaning Solutions,[],Commercial Service Provider,12000.0,12000.0,83642
+"[42.3442482, -75.1704468]",Cabinet & Stone City,"['Customer Service', 'Design', 'Retail', 'Sales']",Kitchen Designer / Sales Representative,,,30093
+"[40.8501002, -73.8662464]",Cactus Asphalt,['Construction'],Entry Level Construction Laborers (No Construction Experience Necessary),,,
+"[35.9606384, -83.9207392]",Cactus Asphalt,[],"CDL Class A Truck Driver (SPREADER, DUMP TRUCK & TANKER)",,,
+,Cactus Asphalt,['Construction'],Milling & Grading Crew Members,43680.0,89440.0,85353
+,Cactus Asphalt,['Construction'],Paving Crew Members,45760.0,89440.0,85353
+"[42.245869, -84.4013462]",Campaign Nucleus,['Customer Service'],Customer Success Engineer,,,33301
+"[38.8951118, -77.0363658]",Campaign Nucleus,[],Senior Quality Assurance Engineer ,,,
+"[38.8951118, -77.0363658]",Campaign Nucleus,"['Engineering', 'Other']",Product Owner,,,33301
+"[39.579155, -104.8769227]",Campaign Nucleus,['Engineering'],Senior Laravel Developer,,,
+"[39.579155, -104.8769227]",Campaign Nucleus,[],Senior Developer - Bulk Email Delivery and Infrastructure (Laravel preferred),,,
+"[35.780987, -78.3697213]",Campbell's Enrolled Agents & Co Inc,"['Accounting', 'Admin-Clerical', 'Business Development', 'Consultant', 'Customer Service', 'Finance', 'Human Resources']",Enrolled Agent / Certified Public Accountant,41600.0,62400.0,
+"[33.6189101, -117.9289469]",CanaGlobal,"['Business Development', 'Sales']",Sales Business Development,,,
+"[34.0522342, -118.2436849]",Candy Land Shop,"['Restaurant-Food Service', 'Retail']",Sales Associate,35360.0,35360.0,98188
+"[39.9956193, -82.6743341]",Cantrell Center for Physical Therapy & Wellness,['Health Care'],Wellness Trainer/ Exercise Physiologist,,,
+"[40.5852602, -105.084423]",Cape Candle,['Warehouse'],Warehouse Worker,24960.0,24960.0,33615
+"[43.5009176, -70.4428286]",Capital Energy Group,"['Business Development', 'Entry Level', 'Management', 'Marketing', 'Sales', 'Training']",Entry Level Sales and Marketing ,60000.0,65000.0,60173
+"[33.6189101, -117.9289469]",Caring Solutions of Central Georgia,"['Business Development', 'General Business', 'Health Care', 'Management', 'Marketing', 'Sales', 'Strategy-Planning']",Director of Advancement,,,31201
+"[33.660297, -117.9992265]",Carlson Financial Group,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'Finance', 'General Business', 'Insurance', 'Management', 'Other', 'Professional Services', 'Sales', 'Telecommunications']",Sales Specialist,55000.0,55000.0,
+"[33.660297, -117.9992265]","Carolina Hearing and Tinnitus, PC","['Admin-Clerical', 'Customer Service', 'Entry Level', 'Hospitality-Hotel', 'Management']",Patient Care Coordinator,,,28677
+"[34.1480621, -117.9989548]",Carolina's Mexican Food,"['Construction', 'Facilities', 'Installation-Maint-Repair', 'Restaurant-Food Service', 'Skilled Labor']",Maintenance Technician,50000.0,50000.0,85020
+"[34.1480621, -117.9989548]",Carpet Mill,"['Construction', 'Entry Level', 'General Labor', 'Installation-Maint-Repair']",Floor Covering Installer Helper,31200.0,37440.0,83843
+"[32.7830556, -96.8066667]",Caulbridge School,"['Admin-Clerical', 'Education', 'Management', 'Sales', 'Strategy-Planning']",Admissions Director,,,94903
+"[33.6694649, -117.8231107]",Cazbah Total Internet Marketing Solution,"['Marketing', 'Other', 'Sales']",Sales Development Representative SDR - REMOTE,31200.0,41600.0,
+"[33.6694649, -117.8231107]",CedarOak Kennels,['Entry Level'],Service Dog Trainer Apprentice,,,62298
+,Cenikor Foundation,"['Executive', 'Management', 'Nonprofit-Social Services']",Program Director - Dallas TX,,,75201
+"[32.7153292, -117.1572551]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']","Outpatient Counselor (LCDC Required) (3k Sign on Bonus) - Full Time - Dallas, TX",,,75201
+"[35.1740471, -79.3922539]",Cenikor Foundation,"['Health Care', 'Management', 'Nonprofit-Social Services']","Clinical Manager (LPC, LCSW or LMFT Required) 10K Sign on Bonus- Full Time- Farmington, NM",,,87401
+"[38.4087993, -121.3716178]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']","Documentation Clerk -Full Time - Houston, TX",,,77043
+"[38.9342776, -77.1774801]",Cenikor Foundation,"['Nonprofit-Social Services', 'Security']","Behavioral Health Technician - Full Time - Dallas, TX",,,75201
+"[38.6122751, -90.4634532]",Cenikor Foundation,"['Nonprofit-Social Services', 'Other']","Outpatient Counselor (LCDC Required) (3k Sign on Bonus) - Full Time - Dallas, TX",,,75201
+"[26.7153425, -80.0533746]",Cenikor Foundation,['Health Care'],"Nurse Practitioner - Contract- Deer Park, TX",,,77043
+,Cenikor Foundation,['Health Care'],"Admissions RN - PRN - Deer Park, TX",,,77043
+"[41.6005448, -93.6091064]",Cenikor Foundation,"['Executive', 'Nonprofit-Social Services']","Program Manager for Outpatient Program – Amarillo, Texas",,,79106
+"[39.9611755, -82.9987942]",Cenikor Foundation,"['Health Care', 'Other', 'Restaurant-Food Service']","Cook (3000 SIGN ON BONUS) - (16-17/hr) - Part Time - Austin, TX 78728",,,78728-7619
+"[35.772096, -78.6386145]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse', 'Other']","Licensed Vocational Nurse - PRN - Austin, TX 78728",,,78728-7619
+"[37.7396513, -121.4252227]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']","Certified Medical Assistant- Part-Time - Corpus Christi, TX",27040.0,27040.0,78408
+,Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse']","Licensed Practical Nurse (LPN) - Part Time - Farmington, NM 87499",,,87401
+"[37.6624312, -121.8746789]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse']","Licensed Practical Nurse (LPN) - Full Time - Farmington, NM 87499",,,87401
+,Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse']","Nurse Practitioner - Contract - Farmington, NM 87499",,,87401
+"[35.1916356, -117.5767246]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']","Counselor II (LADAC Required) - Full Time - Farmington, NM 87499",,,87401
+"[37.3393857, -121.8949555]",Cenikor Foundation,"['Business Development', 'Nonprofit-Social Services', 'Real Estate', 'Sales']","Business Development Manager - Full Time - Waco, TX",,,76708
+"[33.4483771, -112.0740373]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse', 'Professional Services']","Nurse Practitioner - Contract - Waco, TX - 76708",,,76708
+"[32.7830556, -96.8066667]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Other']","Clinical Manager -  LCDC/LMSW - Full Time - Waco, Texas 76708",,,76708
+"[46.7323875, -117.0001651]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']",(2000 Sign-On Bonus) Counselor (LCDCi Required)  -Full Time - Waco,,,76708
+"[36.0396988, -114.9819368]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services']","Certified Medication Aide - Full Time - Waco, TX 76708",,,76708
+"[38.9784453, -76.4921829]",Cenikor Foundation,"['Health Care', 'Nonprofit-Social Services', 'Nurse']","Charge Nurse - (RN) Full-Time - Waco, TX 76708",,,76708
+"[43.5342379, -72.3562023]",Cenikor Foundation,"['Nonprofit-Social Services', 'Nurse']","Licensed Vocational Nurse - PRN - Tyler, TX",41600.0,41600.0,75702
+"[46.7323875, -117.0001651]",Cenikor Foundation,"['Nonprofit-Social Services', 'Nurse']","Nurse Practitioner - Contract - Tyler, TX - 75702",,,75702
+,Cenikor Foundation,"['Nonprofit-Social Services', 'Nurse']","Licensed Vocational Nurse - Part Time - Tyler, TX",41600.0,41600.0,75702
+"[33.6694649, -117.8231107]","Chain Bridge Bank, N.A.",[],Deposit Operations Specialist,,,22101
+"[32.2217429, -110.926479]","Chain Bridge Bank, N.A.",['Accounting'],Accounting Assistant,,,22101
+"[45.5234515, -122.6762071]",Charisma Media,['Admin-Clerical'],Administrative Assistant to Founder and CEO,45000.0,47000.0,32725
+"[38.8338816, -104.8213634]",Children's Health Defense,[],Digital Services Assistant,52000.0,66560.0,
+"[26.1223084, -80.1433786]",Children's Health Defense,[],Social Media Manager,68640.0,83200.0,
+"[33.660297, -117.9992265]",Children's Health Defense,[],Travel Coordinator,62400.0,83200.0,
+"[41.0031141, -80.7856355]",Children's Health Defense,[],Videographer/ Editor,52000.0,72800.0,
+,Children's Health Defense,[],Video Editor,52000.0,72800.0,
+"[33.6189101, -117.9289469]",Children's Health Defense,[],Social Media Clip Editor/Writer,52000.0,72800.0,
+"[38.8890009, -77.0002537]",Children's Health Defense,['Accounting'],Staff Accountant,62400.0,83200.0,
+"[38.8951118, -77.0363658]",Children's Health Defense,[],Chapter Coordinator,41600.0,62400.0,
+"[29.7857853, -95.8243956]",Children's Health Defense,['Information Technology'],Lead Technology Manager,125000.0,175000.0,
+"[45.5863499, -92.9746598]",Children's Health Defense,"['Admin-Clerical', 'Legal', 'Media-Journalism', 'Nonprofit-Social Services', 'Professional Services', 'Research', 'Science']",Copy Editor/Investigative Fact-Checker,58240.0,79040.0,
+"[46.9215603, -116.8982195]",Christensen Orthodontics,"['Customer Service', 'Health Care']",Scheduling Coordinator,31200.0,31200.0,83501
+,Christensen Orthodontics,['Health Care'],Orthodontic Assistant,,,83501
+"[47.1412122, -122.2701183]",Christian Care Ministry (Medi-Share),"['Admin-Clerical', 'Executive']",Special Assistant to CEO,62000.0,85000.0,32934
+,Christian Care Ministry (Medi-Share),"['Admin-Clerical', 'Customer Service', 'Telecommunications']",Customer Service Advocate,39000.0,40560.0,
+"[32.7830556, -96.8066667]",Christian Care Ministry (Medi-Share),"['Finance', 'General Business', 'Information Technology']",Project Coordinator,39998.4,51001.6,
+"[35.4675602, -97.5164276]",Christian Care Ministry (Medi-Share),['Marketing'],Senior Digital Marketing Specialist,50000.0,67000.0,32934
+"[39.977763, -105.1319296]",Christian Care Ministry (Medi-Share),['Information Technology'],Senior Network Engineer,97000.0,139000.0,
+,Christian Care Ministry (Medi-Share),['Information Technology'],Systems Administrator,65000.0,65000.0,
+"[40.0378755, -76.3055144]",CHT Apartments,"['Construction', 'Facilities', 'General Labor', 'Management']",Maintenance,39520.0,39520.0,53703
+"[46.7323875, -117.0001651]","Classical Conversations, Inc.","['Accounting', 'Admin-Clerical']",Accounting Clerk,35000.0,40000.0,28387
+"[34.1705556, -118.8375]","Classical Conversations, Inc.",['Human Resources'],Human Resources Assistant (Temporary),27040.0,27040.0,28387
+"[37.5537575, -77.4602617]",ClearShift,"['Admin-Clerical', 'Customer Service', 'Management', 'Professional Services']",Customer Experience Specialist,35360.0,35360.0,80126
+"[35.9940329, -78.898619]",Coastal Process LLC,"['Distribution-Shipping', 'General Labor', 'Installation-Maint-Repair', 'Skilled Labor']",Field Service Technician ,,,
+"[48.7595529, -122.4882249]","Coblentz-Biehle & Cramer, CPAs",['Accounting'],CPA/TAX PREPARER,,,93446
+"[43.661471, -70.2553259]",Codeware Inc.,"['Business Development', 'Customer Service', 'Sales']",Account Manager,,,
+"[37.6922361, -97.3375448]",Codeware Inc.,['Information Technology'],Technical Support Analyst,,,
+"[30.267153, -97.7430608]",Codeware Inc.,"['Customer Service', 'Engineering']",Mechanical Engineer,,,34238
+"[41.6005448, -93.6091064]",Codeware Inc.,['Information Technology'],Mechanical Engineer - Research & Development,,,34238
+"[28.0225206, -81.6192432]",Codeware Inc.,"['Engineering', 'QA-Quality Control']",Mechanical Engineer – Quality Assurance,,,78730
+"[42.3584308, -71.0597732]",Concordis Education Partners,[],"Firm Foundations Academy - Northwest (Sherwood/Newberg, OR) Full/Part-time Teachers",,,
+"[37.3393857, -121.8949555]",Concordis Education Partners,['Education'],"Libertas Academy (Angels Camp, CA) - Full-time or Part-time Teachers",,,
+"[36.0726355, -79.7919754]",Convention of States,"['General Business', 'Nonprofit-Social Services']",Operations Project Manager,60000.0,65000.0,
+"[33.0145673, -97.0969552]",Convention of States,[],Emerging Leaders Program- Internship,,,
+"[39.9606643, -75.6054882]",Convention of States,"['Admin-Clerical', 'Customer Service', 'Entry Level']",Part-Time Appointment Setter,41600.0,45760.0,
+"[33.4483771, -112.0740373]",Convention of States,"['Marketing', 'Nonprofit-Social Services', 'Telecommunications']",Communications Director,,,
+"[32.7830556, -96.8066667]",Core Catalysts,"['Information Technology', 'Professional Services']",IT Project Manager,,,66212
+"[37.775, -122.4194444]",Coughlin Law Office LLC,"['Admin-Clerical', 'Legal']",Legal Assistant,24960.0,24960.0,66534
+"[32.8140177, -96.9488945]",Coyote  HVAC,"['Construction', 'Skilled Labor']",Electrician Apprentice,41600.0,62400.0,80112
+"[26.7153425, -80.0533746]",Coyote  HVAC,"['Construction', 'Installation-Maint-Repair', 'Skilled Labor']",Electrician,41600.0,93600.0,80112
+"[48.421216, -122.3340474]",Coyote  HVAC,"['Construction', 'Customer Service', 'Installation-Maint-Repair', 'Management', 'Other', 'QA-Quality Control', 'Skilled Labor']",HVAC Installation Supervisor,60000.0,80000.0,80112
+"[32.7765656, -79.9309216]",Coyote  HVAC,"['Construction', 'Skilled Labor']",HVAC Install Technician,65000.0,150000.0,80112
+"[34.0007104, -81.0348144]","Creason, Moore, Dokken & Geidl, PLLC","['Consultant', 'Legal', 'Professional Services']",Associate Attorney,70000.0,125000.0,
+"[34.8526176, -82.3940105]",CrossPolitic Studios,['Media-Journalism'],Journalist,,,
+"[43.2081366, -71.5375718]",CTS Telecommunications,['Telecommunications'],Installation Technician,37440.0,37440.0,45249
+"[42.9956397, -71.4547891]",Curt's Service,[],Advanced Technician,,,
+"[30.0971621, -95.6160549]",Curt's Service,"['Automotive', 'Engineering', 'Entry Level', 'General Labor', 'Skilled Labor']",Technician Assistant,,,
+"[42.7653662, -71.467566]",Curt's Service,"['Automotive', 'Engineering', 'Entry Level', 'General Labor', 'Skilled Labor']",General Technician,,,48237
+"[26.7153425, -80.0533746]",Danzeisen Dairy,[],Merchandiser-Sales representative,,,
+"[46.7323875, -117.0001651]","Dara Holsters & Gear, Inc.","['Manufacturing', 'Skilled Labor']",CNC Machinist,37440.0,41600.0,27591
+"[30.267153, -97.7430608]",Dave Williams Plumbing & Electrical Inc,"['Installation-Maint-Repair', 'Skilled Labor']",Electrician,52000.0,52000.0,92211
+"[40.7989473, -81.378447]",Davis Roofing Solutions,"['Consultant', 'Sales']",Roofing Consultant,,,76111
+"[40.7989473, -81.378447]",Decker's Jewelry and Pawn,"['Customer Service', 'Entry Level', 'Finance', 'Other', 'Retail', 'Sales']",Customer Service/Pawnbroker,20800.0,24960.0,29206
+"[30.4507462, -91.154551]",Def-Logix,"['Engineering', 'Information Technology', 'Research', 'Security']",Linux/BSD C/C++ Developer,90000.0,135000.0,78229
+"[32.7830556, -96.8066667]",Def-Logix,"['Engineering', 'Information Technology', 'Security']",Information System Security Officer & Manager (ISSO & ISSM) ,,,
+"[26.7153425, -80.0533746]",Def-Logix,[],Full Stack Developer,,,
+"[32.7830556, -96.8066667]",Def-Logix,"['Information Technology', 'Management']",Project Manager ,,,
+"[34.9387279, -82.2270569]","Delta Defense, LLC",['Sales'],Inbound Sales Advisor - Remote Optional,37440.0,0.0,
+,"Delta Defense, LLC",['Marketing'],Senior Manager Events Marketing,,,
+,"Delta Defense, LLC",['Customer Service'],Critical Response Team Specialist,,,
+"[26.7153425, -80.0533746]","Delta Defense, LLC",['Sales'],Sales Advisor - Remote Optional,,,
+"[32.7153292, -117.1572551]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Allentown, Pennsylvania",,,
+"[32.7153292, -117.1572551]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - St. Cloud, Minnesota",,,
+"[29.4241219, -98.4936282]","Delta Defense, LLC",['Human Resources'],Manager - Human Resources Business Partners - Hybrid,,,
+"[29.4241219, -98.4936282]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Tucson, Arizona",,,
+"[29.4241219, -98.4936282]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Portland, Maine",,,
+"[48.421216, -122.3340474]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Wichita, Kansas",,,
+"[43.7232522, -111.1113326]","Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Memphis, Tennessee",,,
+"[32.7153292, -117.1572551]","Delta Defense, LLC",[],Human Resources Business Partner - Hybrid,,,53095
+"[42.2528649, -73.790959]","Delta Defense, LLC","['Distribution-Shipping', 'Warehouse']",Warehouse Associate - First Shift $19.00/hour,39520.0,0.0,53095
+"[46.7323875, -117.0001651]","Delta Defense, LLC","['Customer Service', 'Sales', 'Training']",Corporate Trainer - Hybrid,,,53095
+,"Delta Defense, LLC",['Sales'],"Outside Sales - Firearms Industry - Orlando, Florida",,,
+,DeWayne Norton Agency LLC,['Insurance'],Insurance CSR/Producer,,,73080
+"[28.0836269, -80.6081089]",Dimeler & Associates PLLC,"['Accounting', 'Finance', 'Professional Services']",Tax Manager,85000.0,85000.0,99212
+,Dollar a Day Websites & Marketing,"['Business Development', 'Consultant', 'General Business', 'Information Technology', 'Marketing', 'Pharmaceutical', 'Professional Services', 'Sales']",Independent Territory Sales Representative,,,39042
+,Double Dutch Meat Processing (Ulrich Meat Market),"['Other', 'Restaurant-Food Service', 'Retail', 'Sales']",Seasonal Help,,,50219
+,Dr. Hess Dentistry,['Health Care'],Dental Hygienist,72800.0,93600.0,46184
+,Dr's Joseph and Nina Zeigler DMD's PC,['Health Care'],Chairside Dental Assistant,31200.0,52000.0,63131
+,Dream AcadeME,['Education'],PreK-Grade 2 STEAM Teacher & Tutor,52000.0,52000.0,90808
+"[33.4483771, -112.0740373]",Dreamclinic,['Health Care'],Licensed Massage Therapist,104000.0,104000.0,98115
+"[46.7323875, -117.0001651]",Duck Donuts AZ,"['Business Development', 'Customer Service', 'Franchise', 'General Business', 'Inventory', 'Management', 'Marketing', 'Other', 'Restaurant-Food Service', 'Retail', 'Sales', 'Supply Chain', 'Training']",Shop Manager: Hiring Now,,,85248
+"[38.5815719, -121.4943996]","Eagle Heating & Cooling, Inc.","['Installation-Maint-Repair', 'Skilled Labor']",HVAC Technician,62400.0,93600.0,43062
+,"Eagle Mortgage,LLC","['Banking', 'Business Development', 'Executive', 'Finance', 'General Business', 'Management', 'Real Estate', 'Sales']",Gig Worker - B2B Sales Representative (No License Needed),45000.0,180000.0,
+"[43.6135002, -116.2034505]","Eagle Mortgage,LLC","['Banking', 'Business Development', 'Finance', 'General Business', 'Management', 'Real Estate', 'Sales']","Join Our Sales Team at Eagle Mortgage, LLC: Work from Home and Earn High Commission Payouts! ",55000.0,180000.0,
+"[46.4165506, -117.0176569]","Eagle Mortgage,LLC","['Banking', 'Construction', 'Finance', 'General Business', 'Management', 'Real Estate', 'Sales']","Join Our Sales Team at Eagle Mortgage, LLC: Work from Home and Earn High Commission Payouts! ",55000.0,180000.0,
+"[33.6694649, -117.8231107]","Eagle Mortgage,LLC","['Banking', 'Business Development', 'Construction', 'Finance', 'General Business', 'Real Estate', 'Sales']","Join Our Sales Team at Eagle Mortgage, LLC: Work from Home and Earn High Commission Payouts! ",60000.0,250000.0,
+"[44.8877401, -94.3697057]","Early's Carpet, Inc.","['Construction', 'Entry Level', 'General Labor', 'Installation-Maint-Repair', 'Skilled Labor']",Assistant Flooring Helper,29120.0,29120.0,20106
+"[41.9270367, -73.9973608]",EARN Cares,['Nurse'],"Psychiatric Registered Nurse - $10k Sign on Bonus [Peoria, Mesa or Glendale]",70720.0,70720.0,85018
+"[39.9611755, -82.9987942]",EARN Cares,['Nurse'],Registered Nurse - $10k+ Signing Bonus W/Multiple Opportunities In a Hospital Setting,72800.0,72800.0,85018
+"[29.4241219, -98.4936282]","East Coast Speed Service, Inc.","['General Labor', 'Skilled Labor']",In-Field Technician ,0.0,0.0,18301
+"[46.7323875, -117.0001651]",EBizCharge ,[],Product Owner ,75000.0,90000.0,92618
+"[40.0378755, -76.3055144]",EBizCharge ,[],Talent Sourcer ,41600.0,72800.0,92618
+"[46.7323875, -117.0001651]",EBizCharge ,[],Director of Strategic Partnerships ,80000.0,120000.0,
+"[40.0378755, -76.3055144]",EBizCharge ,"['Business Development', 'Sales']",Business Development Representative  ,37440.0,45760.0,
+"[32.6209775, -83.5999048]",EBizCharge ,"['Admin-Clerical', 'Banking', 'Customer Service']",Service Administrator ,37440.0,62400.0,92618
+,EBM GREENS INC.,"['Marketing', 'Other', 'Sales']",Inside Sales Representative,,,
+"[37.247206, -112.664377]",eFriendly,['Information Technology'],Operations as a Service IT Technician - Tier 1,,,27409
+"[37.247206, -112.664377]",Electric Mirror,['Human Resources'],Human Resources Manager,95000.0,110000.0,98203
+"[37.247206, -112.664377]",Electric Mirror,"['Accounting', 'Manufacturing']",Senior Cost Accountant,90000.0,105000.0,98203
+"[38.5815719, -121.4943996]",Electric Mirror,"['Customer Service', 'Executive', 'Management', 'Marketing', 'Sales']","Director, Inside Sales Operations",130000.0,155000.0,98203
+"[38.8951118, -77.0363658]",Electric Mirror,['Sales'],Residential Account Manager,65500.0,65500.0,
+"[38.8951118, -77.0363658]",Electric Mirror,['Accounting'],Staff Accountant,54080.0,54080.0,
+"[38.8951118, -77.0363658]",Electric Mirror,['Accounting'],Accounting and Finance Manager,110000.0,110000.0,
+"[33.0203211, -117.202813]","ELEMET, Inc.","['Distribution-Shipping', 'Entry Level', 'Manufacturing', 'Supply Chain', 'Warehouse']",Tear-Down Technician (Dismantler),35360.0,0.0,12534
+"[40.0378755, -76.3055144]",Elijah's Specialty Coffee & Tea,['Restaurant-Food Service'],Full or Part-time Barista,,,60126
+,Ellipse Diagnostics,['Health Care'],Laboratory Supervisor,70000.0,70000.0,34997
+"[39.7083789, -91.3584816]","Ellis Crow Solutions, LLC","['Admin-Clerical', 'Entry Level']",Team Member,45000.0,45000.0,3054
+"[33.4483771, -112.0740373]",ELM Structural Engineers,[],Structural Engineer,,,
+"[30.3321838, -81.655651]",Erber Auto,['Automotive'],Auto Technician,80000.0,100000.0,83843
+"[28.0836269, -80.6081089]",Erickson Construction,['Construction'],Carpenter,72800.0,72800.0,98329
+"[27.8005828, -97.396381]",Excalibur Auto Body Repair,['Automotive'],Auto Body Estimator,60000.0,90000.0,83501
+"[40.0455918, -86.0085955]",Exodus East,['Automotive'],Mobile Automotive Technician/ Roadside Assistance Provider,25000.0,50000.0,
+"[46.7323875, -117.0001651]",EyeMD EMR Healthcare Systems Inc,"['Customer Service', 'Entry Level', 'General Business']",Customer Service Representative,35000.0,35000.0,34134
+"[46.7323875, -117.0001651]",Family Stations,"['Admin-Clerical', 'Executive', 'Human Resources', 'Management', 'Media-Journalism', 'Nonprofit-Social Services']",Senior Director of Operations,150000.0,170000.0,
+"[34.9387279, -82.2270569]",FARM BUREAU INSURANCE,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'Insurance']",CUSTOMER SERVICE REPRESENTATIVE,,,49106
+"[40.7325997, -73.4454009]","Fertility Bridge, LLC",['Media-Journalism'],Investigative Journalist,,,
+,Firetrucks Unlimited,['Manufacturing'],Diesel Mechanic,52000.0,72800.0,89074
+"[41.8889194, -87.9033956]",Flex Tech,"['Construction', 'General Labor', 'Skilled Labor']",Voice & Data Technician,41600.0,56160.0,
+,Flex Tech,"['Construction', 'Skilled Labor']",Conduit Installer/Bender,,,
+"[46.2112458, -119.1372338]",Flex Tech,"['Construction', 'General Labor', 'Installation-Maint-Repair', 'Security']",Access Control Technician ,41600.0,56160.0,
+"[44.7930232, -89.7031784]",Flex Tech,"['Construction', 'General Labor', 'Installation-Maint-Repair', 'Manufacturing', 'Security', 'Skilled Labor', 'Telecommunications', 'Warehouse']",L1 Technician - Project Manager Available,41600.0,150000.0,
+"[44.7930232, -89.7031784]",FoodEmployment.com Inc.,"['Human Resources', 'Management', 'Professional Services', 'Restaurant-Food Service']",Human Resource Manager – Bilingual,,,
+"[44.7930232, -89.7031784]",ForAmerica,"['Customer Service', 'Design', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Strategy-Planning']",Social Media Specialist/Marketer,40000.0,40000.0,20191
+"[38.7509488, -77.4752667]",Forged Construction,"['Construction', 'Skilled Labor']",Journeyman Framer,,,83843
+"[38.7509488, -77.4752667]",Forrest Johnson Recruiting ,"['Accounting', 'Finance']",Staff Accountant,,,30318
+"[40.75839, -82.5154471]",Fox Hardwood Lumber,"['Accounting', 'General Business', 'Inventory', 'Management', 'Purchasing-Procurement', 'Sales', 'Skilled Labor', 'Supply Chain', 'Training', 'Transportation']",Log Yard Manager,,,38341
+"[36.0726355, -79.7919754]",Fox Hardwood Lumber,"['Design', 'Engineering', 'Management', 'Manufacturing', 'QA-Quality Control', 'Training']",Production Engineer,,,37064
+"[32.2217429, -110.926479]","Freedom Fries, LLC",[],Search Engineer,,,
+"[40.0378755, -76.3055144]",Freedom Ring Venture Studio,"['Accounting', 'Admin-Clerical', 'Business Development', 'Consultant', 'Customer Service', 'Design', 'Engineering', 'Entry Level', 'Executive', 'Finance', 'General Business', 'Human Resources', 'Information Technology', 'Legal', 'Management', 'Marketing', 'Other', 'Professional Services', 'QA-Quality Control']",Conservative Technology Innovators Wanted,40000.0,40000.0,20191
+"[26.7153425, -80.0533746]",Friendly Plumbing Inc.,['Skilled Labor'],Plumber,,,89431
+"[39.0916586, -104.872758]",FTS Excavation LLC,"['Construction', 'Management', 'Skilled Labor']",Heavy Equipment Operator and Superintendent ,83200.0,93600.0,98374
+"[39.0916586, -104.872758]",Future Generations Clinic of Chiropractic,"['Admin-Clerical', 'Customer Service']",Chiropractic Assistant,33280.0,39520.0,92025
+"[39.0916586, -104.872758]",G1 Staffing,"['Construction', 'Skilled Labor']",Skilled Carpenter,35360.0,35360.0,72114
+,GA Fleet Force,"['Automotive', 'Skilled Labor']",Lead Diesel Technician,62400.0,93600.0,30340
+"[42.4594803, -83.1827051]",Garland Activewear,['Design'],Part Time Graphic Design,41600.0,41600.0,32258
+"[42.4594803, -83.1827051]",GFA World,"['Entry Level', 'General Labor', 'Nonprofit-Social Services', 'Training']",Ministry Apprenticeship,,,
+"[42.4594803, -83.1827051]",Gideon 300,"['Admin-Clerical', 'Executive']",Senior Executive Assistant,75000.0,75000.0,
+"[36.5297706, -87.3594529]",Gideon 300,"['Marketing', 'Media-Journalism']",Director of Media Relations ,,,
+"[32.7153292, -117.1572551]","Golden Construction, Inc.",['Construction'],Construction Project Estimator,70000.0,120000.0,92647
+"[32.7153292, -117.1572551]",Grace Christian Academy of Merrick,['Education'],Grammar School Teacher,30000.0,60000.0,11566
+"[47.6587803, -117.4260466]",Grace Christian Academy of Merrick,['Education'],Math/Science Teacher,30000.0,60000.0,11566
+"[34.9387279, -82.2270569]",Grace Christian Academy of Merrick,['Education'],Music Teacher,15000.0,60000.0,11566
+"[45.7809491, -122.5334307]",Green Acres,"['Automotive', 'Engineering', 'Facilities', 'Skilled Labor', 'Transportation']",Diesel Mechanic,,,19526
+,Gregory Pacific Corp.,"['Construction', 'General Labor', 'Skilled Labor']",EXCAVATION and UTILITY FOREMAN,,,97218
+"[28.7588833, -81.3178446]",Guardian Pet Sitters,"['Customer Service', 'Entry Level', 'General Labor', 'Hospitality-Hotel', 'Professional Services']",Part Time Professional Pet Sitter,20800.0,31200.0,75056
+"[39.0997266, -94.5785667]","H.A. Dorsten, Inc. General Contractors","['Construction', 'General Labor', 'Other', 'Skilled Labor', 'Warehouse']",Carpenters -Commercial Construction,,,45865
+"[38.8951118, -77.0363658]",Hardwood Artisan LLC,"['General Labor', 'Installation-Maint-Repair', 'Skilled Labor']",Shop Cabinet Maker,39520.0,39520.0,
+,Hecto Group,['Engineering'],Electrical Engineer,,,63026
+"[38.8951118, -77.0363658]",Hecto Group,['Engineering'],Director of Electrical Engineering,,,63026
+"[35.1495343, -90.0489801]",Heirloom Market Co and Bakeshop,"['General Business', 'Other']",Front of House /Barista Team Member- ! TIPS !,18720.0,18720.0,30277
+"[39.9611755, -82.9987942]",Henderson Pool Service,"['Installation-Maint-Repair', 'Other', 'Professional Services', 'Skilled Labor']",Swimming Pool Service Technician,39000.0,39000.0,32233
+"[33.4483771, -112.0740373]",Hendrickson Tree Car Company,"['General Labor', 'Professional Services', 'Skilled Labor']",Arborist  or Arborist Assistant,31200.0,31200.0,64111
+"[44.9799654, -93.2638361]",Hill Country Health PLLC,['Health Care'],Medical Assistant/Technologist,37440.0,37440.0,78734
+"[40.7142691, -74.0059729]",Hillsdale College,"['Education', 'Other', 'Telecommunications']",Manager of Live Video & Post-Production,,,49271
+"[33.6378183, -112.020704]",Hillsdale College Business Development,"['Education', 'Professional Services']",Production Mail Manager for Print and Mail,,,49242
+,"Hire Endeavors, LLC","['Health Care', 'Nurse']",Nurse Practitioner,106000.0,142000.0,10451
+,"Hire Endeavors, LLC","['Health Care', 'Nurse']",Registered Nurse - Home Care ,97000.0,122000.0,10701
+,"Hire Endeavors, LLC","['Health Care', 'Nurse']",Registered Nurse - Home Care,97000.0,122000.0,10001
+,"Hire Endeavors, LLC","['Health Care', 'Nurse']",Registered Nurse - Home Care,97000.0,122000.0,11201
+,"Hire Endeavors, LLC","['Health Care', 'Nurse']",Registered Nurse - Home Care,97000.0,122000.0,10451
+,Holistic Nutrition Center,"['Admin-Clerical', 'Banking', 'Business Development', 'Consultant', 'Customer Service', 'Distribution-Shipping', 'Education', 'Entry Level', 'General Business', 'General Labor', 'Grocery', 'Health Care', 'Inventory', 'Management', 'Marketing', 'Other', 'Professional Services', 'Retail', 'Sales', 'Skilled Labor', 'Training']",Receptionist,37440.0,37440.0,92660
+"[33.1192068, -117.086421]",Home Instead Woodland Hills,['Health Care'],Caregiver,35360.0,43680.0,91367
+"[32.7092955, -96.0083018]",Honest 1 Auto Care,"['Automotive', 'Engineering', 'General Labor', 'Skilled Labor']",Automotive Technician,41600.0,62400.0,
+"[34.0007104, -81.0348144]",Hotze Health & Wellness Center,"['Admin-Clerical', 'Business Development', 'Design', 'Marketing']",Marketing Generalist,58000.0,60000.0,
+"[44.1635775, -93.9993996]",HSP Direct,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'Marketing', 'Professional Services', 'Purchasing-Procurement']",Political Production Coordinator ,,,20147
+,Huff Technologies Inc,"['Engineering', 'General Business', 'Installation-Maint-Repair', 'Manufacturing', 'Skilled Labor', 'Warehouse']",Automated  Equipment Assembly Technician,31200.0,31200.0,42437
+"[41.9200472, -84.6305101]",I Need the Plumber & Air Conditioning,"['Construction', 'General Labor', 'Installation-Maint-Repair', 'Other', 'Skilled Labor']",Service Technicians (Plumbing/HVAC),31200.0,31200.0,34952
+"[30.1579935, -95.4893845]",I.T. Audit Search,"['Accounting', 'Finance', 'Information Technology', 'Professional Services']","Sr. Auditor, Integrated Audit",90000.0,90000.0,
+"[47.5403732, -122.6362492]","Ichthys IT Services, Inc.",['Information Technology'],Senior IT Engineer,62400.0,62400.0,01069-0222
+"[47.6732281, -117.2393748]",IMCO Trailers,['Engineering'],Auto cad / designer,64000.0,64000.0,80022
+,Indy Pavement Services,['Admin-Clerical'],Scheduling Assistant,29120.0,37440.0,
+"[35.870619, -88.1458719]",Informed Consent Action Network,[],Personal Assistant,,,
+"[35.9250637, -86.86889]",Informed Consent Action Network,['Admin-Clerical'],Executive Assistant,48000.0,48000.0,78737
+"[37.9886892, -84.4777153]",Informed Consent Action Network,"['Business Development', 'General Business', 'Marketing', 'Media-Journalism', 'Other', 'Professional Services']",Social Media Manager,,,78737
+,Informed Consent Action Network,['Media-Journalism'],Tricaster Operator,,,78737
+"[41.850033, -87.6500523]",Inheritance Academy,['Education'],Head of School,65000.0,65000.0,60048
+"[33.1567863, -94.968269]","Innovative Comfort Systems, Inc",['Construction'],Journeyman Service Technician,,,98037
+"[38.8951118, -77.0363658]",Inspire Investing,['Finance'],Director of Compliance,98000.0,117000.0,83646
+"[38.8951118, -77.0363658]",Inspire Investing,"['Customer Service', 'Finance']",Client Service Specialist,45760.0,49920.0,83646
+"[38.8951118, -77.0363658]",Invita Café,"['Entry Level', 'Hospitality-Hotel', 'Other', 'Restaurant-Food Service', 'Retail']",Lead Barista - *immediate hire*,31200.0,31200.0,92067
+"[44.1635775, -93.9993996]",Iron Goat Defense ,['Security'],Armed & Unarmed Security Guards,39520.0,52000.0,
+,It Needs to be Perfect,"['Hospitality-Hotel', 'Other', 'Professional Services']",House Cleaner,35360.0,35360.0,85271
+"[38.2542376, -85.759407]","J & R Roofing Co., Inc","['Construction', 'Management', 'Sales']",Commercial Roofing Service Department Manager,90000.0,120000.0,20794
+"[41.673642, -88.0017261]",J t kruer & company,['Skilled Labor'],Grading Foreman,,,
+"[33.4483771, -112.0740373]",J t kruer & company,['Skilled Labor'],Heavy Equipment Operator,,,
+"[33.4483771, -112.0740373]",J. Galt Finance Suite,"['Business Development', 'Consultant', 'Executive', 'Finance', 'Professional Services', 'Sales']",Sales Executive,125000.0,125000.0,
+"[33.4483771, -112.0740373]",Jerico Mechanical,"['Installation-Maint-Repair', 'Other', 'Skilled Labor']",HVAC/REFRIGERATION SERVICE & REPAIR TECHNICIAN,41600.0,83200.0,95838
+"[33.4483771, -112.0740373]",Jess Lewis Transmission,"['Automotive', 'Skilled Labor', 'Transportation']",Automotive Technician,31200.0,31200.0,46802
+"[33.4483771, -112.0740373]",Jesse Waldman CPA,"['Accounting', 'Professional Services']",Tax Accountant,,,37074
+"[33.4483771, -112.0740373]",JM AUTOMATION SERVICES LLC,"['Design', 'Engineering', 'General Labor', 'Manufacturing', 'Skilled Labor']",MECHANICAL DESIGN ENGINEER,60000.0,100000.0,19438
+"[33.4483771, -112.0740373]",JOHNNY SLICKS,[],Laboratory Assistant ,,,28445
+"[33.4483771, -112.0740373]",JPW Design Studio,"['Customer Service', 'Design']",Website Design & Customer Service - Remote,31200.0,31200.0,75455
+"[33.4483771, -112.0740373]",Julian Center for Comprehensive Dentistry,['Health Care'],Dental assistant,41600.0,41600.0,21042
+"[38.8951118, -77.0363658]",Justin Seed Company,['Transportation'],CDL Driver,,,76247
+"[33.4483771, -112.0740373]",Keller Williams Realty,"['Real Estate', 'Sales']",Real Estate Agent,46300.0,46300.0,45342
+"[33.4483771, -112.0740373]","Kevin E. Fordyce, CPA",['Accounting'],Experienced or Senior Auditor,72800.0,166400.0,91101
+"[42.331427, -83.0457538]",Kitchen & Bath Solutions,"['Construction', 'Customer Service', 'General Labor', 'Other', 'Professional Services', 'Sales', 'Skilled Labor']",Tub/Tile/Countertop/Cabinet Refinisher & Repairman,41600.0,93600.0,27606
+"[41.6005448, -93.6091064]",Koble Systems,"['Consultant', 'Engineering']",Implementation Scripting Consultant,,,17602
+"[37.5537575, -77.4602617]",Koble Systems,"['Consultant', 'Engineering']",Implementation Scripting Consultant,,,
+"[37.5537575, -77.4602617]",Koble Systems,"['Consultant', 'Customer Service']",Technical Support Specialist,,,
+"[33.5206608, -86.80249]",Koble Systems,"['Admin-Clerical', 'Customer Service']",Operations Assistant,,,
+"[30.267153, -97.7430608]",Koble Systems,"['Admin-Clerical', 'Customer Service']",Operations Assistant,,,
+"[33.4483771, -112.0740373]",Koble Systems,"['Consultant', 'Customer Service']",Solutions Consultant,,,
+"[40.5852602, -105.084423]",Koble Systems,"['Consultant', 'Customer Service']",Solutions Consultant,,,17602
+"[35.4675602, -97.5164276]",Koble Systems,"['Customer Service', 'Telecommunications']",Client Support Specialist,,,17602
+"[30.4507462, -91.154551]",Koble Systems,['Customer Service'],Account Manager,,,
+,Koble Systems,['Customer Service'],Client Relationship Manager,,,
+,Landis Cabinetry LLC,"['Construction', 'Entry Level', 'General Labor', 'Installation-Maint-Repair', 'Manufacturing', 'Skilled Labor']",Cabinet Builder,49920.0,66560.0,
+"[35.4675602, -97.5164276]",Lash-Idaho (Deka Lash),"['Customer Service', 'Other']",Lash Artist,30000.0,65000.0,83642
+,Latitude Clinic LLC,['Health Care'],Experienced Family Nurse Practitioner (With Peds Experience),106000.0,106000.0,34237
+"[36.0998596, -80.244216]",Launch Cart,"['Business Development', 'Design', 'Marketing', 'Other', 'Retail']",eCommerce Store Creator,,,92025
+"[32.7830556, -96.8066667]",LEADERSHIP INSTITUTE,"['Education', 'Other']",Field Representative ,28000.0,54000.0,
+,LearningCart,"['Engineering', 'Professional Services']",Remote ASP.net Developer,70000.0,70000.0,75077
+"[37.2707012, -76.634677]","LeCrone Law Firm, PC","['Admin-Clerical', 'Legal']",Litigation Associate,,,75092
+"[38.8951118, -77.0363658]",Legacy Family Chiropractic,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'Health Care', 'Marketing']",Chiropractic Assistant,33280.0,41600.0,49321
+"[38.8951118, -77.0363658]","Lessler's Draperies & Design, Inc.","['Admin-Clerical', 'Customer Service']",Receptionist,,,
+"[37.2707012, -76.634677]","Lessler's Draperies & Design, Inc.","['General Labor', 'Installation-Maint-Repair']",Installer,,,
+,"Lessler's Draperies & Design, Inc.","['Business Development', 'Management', 'Sales']",Sales Manager,,,
+"[46.7323875, -117.0001651]",Liberation Technology Services,"['Business Development', 'Consultant', 'Design', 'QA-Quality Control']",Wordpress Developer,83262.4,156000.0,
+"[32.7830556, -96.8066667]",Liberation Technology Services,"['Business Development', 'Sales']",Software Commission Based Sales Rep,,,
+"[39.7391536, -104.9847034]",Liberty Learning Academy,['Education'],Certified Teacher K-5,,,7748
+"[40.6628796, -73.551516]",Life Matters,"['Business Development', 'Entry Level', 'Finance', 'Insurance', 'Professional Services', 'Sales']",Work From Home- Life Insurance Sales,40000.0,85000.0,
+"[40.6628796, -73.551516]","Life Pawtners, LLC","['Customer Service', 'Professional Services']",Looking for Pet Professionals!,,,76049
+"[40.6628796, -73.551516]",LifeSurge,"['Accounting', 'Banking', 'Consultant', 'Executive', 'Finance', 'Management']",Credit and Collections Director ,80000.0,100000.0,34221
+"[33.0890094, -96.8863922]",LifeSurge,"['Accounting', 'Finance', 'Management']",Accounting Manager ,70000.0,80000.0,34221
+"[47.9789848, -122.2020794]",LifeSurge,"['Management', 'Sales', 'Telecommunications']",Sales Team Lead ,150000.0,250000.0,34221
+,LifeSurge,['Human Resources'],HR Generalist ,50000.0,70000.0,34221
+"[46.7323875, -117.0001651]",LifeSurge,"['Sales', 'Telecommunications']",Inside Sale Representative ,49999.99,150000.0,34221
+"[43.6954424, -116.3540138]",LifeWave,"['Health Care', 'Sales', 'Training']",Brand Partner for LifeWave,,,
+"[40.0378755, -76.3055144]",Linemen Institute of the North East ,"['Construction', 'Education', 'Installation-Maint-Repair', 'Other', 'Skilled Labor', 'Training']",Lineman Training Instructor,93600.0,93600.0,12401
+"[38.9181671, -78.1944446]",Live Long & Prosper Chiropract,"['Health Care', 'Other']",Chiropractic Assistant,35360.0,35360.0,98002
+"[46.4165506, -117.0176569]",Logos School,['Education'],Classical History Teacher - 11th Grade,,,
+"[43.6954424, -116.3540138]",Logos School,['Education'],Latin Teacher,25000.0,35000.0,83843
+"[30.267153, -97.7430608]","Lolair Protection Agency, Inc.","['General Labor', 'Professional Services', 'Security', 'Veterinary Services']",Security,,,27502
+"[41.6005448, -93.6091064]",Louder with Crowder,"['Marketing', 'Media-Journalism']",Social Media + Graphic Designer,55000.0,55000.0,75219
+"[30.267153, -97.7430608]",Louder with Crowder,"['Government', 'Marketing', 'Media-Journalism']",Staff Writer,50000.0,49999.99,
+"[37.9886892, -84.4777153]",Louder with Crowder,['Information Technology'],Senior Information Technology Support Technician & Broadcast Media Engineer,70000.0,90000.0,75219
+"[38.8951118, -77.0363658]",Louder with Crowder,"['Design', 'Marketing']",Photo & Video Editor,,,
+"[39.7683765, -86.1580423]",Louder with Crowder,"['Design', 'Media-Journalism']",Wardrobe Manager,40000.0,40000.0,75219
+"[25.7742658, -80.1936589]",Louder with Crowder,"['Admin-Clerical', 'Executive']",Executive Assistant,50000.0,50000.0,75219
+"[30.267153, -97.7430608]",Louder with Crowder,"['Marketing', 'Media-Journalism']",Senior Video Editor & Producer,60000.0,80000.0,75219
+"[26.8233946, -80.1386547]",Luckydog,"['Admin-Clerical', 'Customer Service', 'General Labor', 'Hospitality-Hotel', 'Skilled Labor', 'Veterinary Services']",assistant/manager,33280.0,33280.0,92037
+"[26.8233946, -80.1386547]",Lustre Christian High School,['Education'],Secondary School History Teacher,,,59225
+"[40.1573169, -76.3069014]",Lustre Christian High School,['Education'],Secondary School Mathematics Teacher,,,59225
+"[40.0378755, -76.3055144]","M Dean Owen, CPA, PSC","['Accounting', 'Finance', 'General Business']",Accounntant/Bookkeeper,40000.0,70000.0,42003
+"[28.0186323, -82.1128641]",Maddox Industrial Transformer,"['Inventory', 'Skilled Labor']","Inventory Tech - Fountain Inn, SC",65000.0,78000.0,
+"[28.0186323, -82.1128641]",Maddox Industrial Transformer,['Customer Service'],"Customer Service Representative - Batavia, OH",59850.0,66500.0,
+"[42.7653662, -71.467566]",Maddox Industrial Transformer,['Admin-Clerical'],"Administrative Office Support - Greer, SC",35360.0,0.0,29650
+"[33.5261365, -117.6238946]",Maddox Industrial Transformer,"['Admin-Clerical', 'General Business', 'Hospitality-Hotel']","Administrative Office Support - Moscow, ID",37440.0,0.0,83843
+"[46.7323875, -117.0001651]",Maddox Industrial Transformer,"['QA-Quality Control', 'Skilled Labor']","Quality Control Tech - Greer, SC",65000.0,78000.0,29651
+,Maddox Industrial Transformer,[],"HR and Payroll Administrator - Greer, SC",,,
+"[43.4252776, -88.1834277]",Maddox Industrial Transformer,"['Accounting', 'Admin-Clerical', 'Human Resources', 'Other']","HR & Payroll Administrator - Battle Ground, WA",,,
+"[33.3628228, -112.169317]",Maddox Industrial Transformer,"['Admin-Clerical', 'Human Resources']",HR and Payroll Administrator,85000.0,90000.0,
+,Maddox Industrial Transformer,['Sales'],"Industrial Sales Rep (Inside Sales) - Batavia, OH",,,45103
+,Maddox Industrial Transformer,"['Inventory', 'Manufacturing']","Inventory Tech - Day Shift Only - Batavia, OH",60000.0,60000.0,45103
+"[46.7323875, -117.0001651]",Maddox Industrial Transformer,"['Customer Service', 'Distribution-Shipping', 'Management', 'Other', 'Strategy-Planning', 'Supply Chain']","Logistics Coordinator - Greer, SC",63000.0,63000.0,29651
+"[46.4165506, -117.0176569]",Maddox Industrial Transformer,"['Purchasing-Procurement', 'Supply Chain']","Business Development, Purchasing - Battle Ground",74000.0,74000.0,83843
+"[43.4252776, -88.1834277]",Maddox Industrial Transformer,"['Inventory', 'Manufacturing']","Inventory Tech  - Day Shift Only - Battle Ground, WA",,,98604
+"[43.4252776, -88.1834277]",Maddox Industrial Transformer,"['Inventory', 'Manufacturing']","Inventory Tech - Day Shift Only - Greer, SC",,,29651
+,Maddox Industrial Transformer,['Manufacturing'],"Transformer Tech - Day Shift Only - 4 Day Work Week (Mechanical, Fabrication, Welding) - Greer, SC",,,29651
+"[47.9789848, -122.2020794]",Maddox Industrial Transformer,"['Purchasing-Procurement', 'Supply Chain']","Business Development, Purchasing - Battle Ground",74000.0,74000.0,98604
+,Maddox Industrial Transformer,['Sales'],"Industrial Sales Rep (Inside Sales) - Greer, SC",,,29651
+,Maddox Industrial Transformer,"['Admin-Clerical', 'Customer Service', 'Sales']","Order Management - Greer, SC",50000.0,50000.0,29651
+"[37.0833893, -88.6000478]",Maddox Industrial Transformer,"['Admin-Clerical', 'Customer Service', 'Sales']","Production Planner/Scheduler - Battle Ground, WA",70000.0,70000.0,98604
+"[28.5383355, -81.3792365]",Maddox Industrial Transformer,"['Purchasing-Procurement', 'Supply Chain']","Business Development, Purchasing - Simpsonville, SC",65000.0,65000.0,29681
+"[40.3977612, -105.0749801]",Maddox Industrial Transformer,['Sales'],"Industrial Sales Rep (Inside Sales) - Moscow, ID",,,
+,Maddox Industrial Transformer,['Manufacturing'],"Transformer Tech-Day Shift-4 Day Work Week (Mechanical, Fabrication, Welding) - Battle Ground, WA",,,98604
+"[46.7323875, -117.0001651]",Madvapes,['Retail'],Retail Sales Associate,35360.0,37440.0,3063
+"[37.6456329, -84.7721702]",MAF Logistics,"['Distribution-Shipping', 'General Labor', 'Inventory', 'Transportation', 'Warehouse']",Driver/Mover/Crew Member,37440.0,37440.0,97305
+"[47.9789848, -122.2020794]",Mallory Family Wellness,['Health Care'],Medical Office Receptionist,,,80538
+"[47.9789848, -122.2020794]",Maranatha Consulting,"['Business Development', 'Consultant', 'Finance', 'General Business', 'Insurance', 'Marketing', 'Sales']",Small Business Savings Hero,,,34232
+"[47.9789848, -122.2020794]",Master's Touch Woodworking,"['Construction', 'General Labor', 'Installation-Maint-Repair', 'Manufacturing', 'Other', 'Skilled Labor']",Full-time Cabinet Maker/Installer,37440.0,52000.0,83843
+"[28.5383355, -81.3792365]",Matt Tobben Insurance and Financial Serv,"['Admin-Clerical', 'Business Development', 'Insurance', 'Sales']",Sales Representative,72000.0,110000.0,
+"[35.0526641, -78.8783585]",Mattang,['Information Technology'],Software Engineer,,,
+"[33.1506744, -96.8236116]",MaxxD Trailers,"['General Labor', 'Manufacturing', 'Skilled Labor', 'Warehouse']",Welder,41600.0,41600.0,75090
+"[34.769536, -92.2670941]",Mayberry Manor Care,"['Health Care', 'Hospitality-Hotel', 'Nurse']",Resident Assistant,27040.0,27040.0,54904
+"[42.9541963, -85.4889121]","Mecha, Inc.","['Engineering', 'General Labor', 'Government', 'Inventory', 'Manufacturing', 'Other', 'QA-Quality Control', 'Skilled Labor', 'Warehouse']",Assembly Technician,31200.0,31200.0,27607
+"[36.1658899, -86.7844432]","Mecha, Inc.","['Design', 'Engineering', 'Inventory', 'Manufacturing', 'Other', 'Warehouse']","CNC Machine Operator, Machinist",31200.0,31200.0,27607
+"[28.3252878, -81.5331286]",Media Intelligence Group,"['Admin-Clerical', 'Professional Services', 'Strategy-Planning']",Intelligence Analyst,,,
+"[28.3252878, -81.5331286]",Media Research Center,"['Entry Level', 'Media-Journalism']",Paid Summer Reporting Internship ,24960.0,24960.0,20191
+"[28.3252878, -81.5331286]","Mercury One, Inc","['Accounting', 'Nonprofit-Social Services']",Senior Accounting Manager,,,
+"[36.3320197, -94.1185366]",Methodworks,['Information Technology'],IT Systems Support Engineer I,54000.0,54000.0,98012
+"[28.3252878, -81.5331286]","Middle Georgia Center for Independent Living, Inc. (d.b.a. Disability Connections)","['Customer Service', 'Entry Level', 'Media-Journalism', 'Nonprofit-Social Services', 'Other']",Independent Living Coordinator,25000.0,35000.0,31206
+"[46.4165506, -117.0176569]",Mighty Dog Roofing,"['Business Development', 'Construction', 'Sales']",Roofing Sales,70000.0,150000.0,53005
+"[35.233375, -106.6644716]",Miracle Contracting INC,['Construction'],Construction / Remodeling,33280.0,33280.0,46805
+"[34.4480495, -119.242889]",MMP Capital,"['Finance', 'Sales']",ACCOUNT EXECUTIVE - SALES,,,11735
+"[39.7391536, -104.9847034]","Mpathic, LLC","['Health Care', 'Management', 'QA-Quality Control', 'Sales']",Team Lead - Membership Development Representative (Inside Sales),49920.0,54080.0,
+"[43.4799291, -110.7624282]",Mt Everest Moving Company,"['Transportation', 'Warehouse']",Delivery Supervisor,41600.0,41600.0,17543
+"[35.233375, -106.6644716]",Mulch Monkey,"['Distribution-Shipping', 'General Business']",Part-Time Mulch Delivery Driver (NO CDL REQUIRED),41600.0,41600.0,19344
+"[48.7595529, -122.4882249]",MxM News,[],Head of Growth and Engagement,,,
+,"National Stormwater Trust, Inc.","['Engineering', 'Entry Level']",Entry Level Civil and Environmental Engineer,45000.0,65000.0,32309
+"[35.1740471, -79.3922539]",National Vision Center,"['Admin-Clerical', 'Customer Service']",Front Desk Attendant,31200.0,31200.0,11226
+,NAVIGO,"['Design', 'Engineering', 'Security']",UI / UX Designer,,,75234-7770
+"[41.8994745, -87.9403418]",NAVIGO,"['Engineering', 'Security']",Software Back-end Engineer,,,
+"[40.7142691, -74.0059729]",NAVIGO,"['Engineering', 'Security']",Front End Developer,,,
+"[33.9562149, -83.9879625]",NAVIGO,"['Engineering', 'Security']",Full Stack Developer,,,
+"[33.7489954, -84.3879824]","Neuman K-9 Academy, Inc","['Admin-Clerical', 'Customer Service', 'Entry Level', 'General Labor', 'Other', 'Professional Services', 'Skilled Labor', 'Veterinary Services']",Kennel Assistant/Dog Handler,37440.0,52000.0,55038
+"[46.7323875, -117.0001651]",Norms Glass LLC,['Construction'],Glazier,41600.0,83200.0,83843
+"[40.7706562, -74.2326463]",North Pine Building LLC,"['Construction', 'General Business', 'Skilled Labor']",Lead Carpenter/Laborer,31200.0,31200.0,83843
+"[39.0770072, -84.1768795]",Northwest Water Systems,"['Consultant', 'Design', 'Engineering', 'Entry Level', 'Science']",Design Engineer,55000.0,55000.0,98367
+"[28.7813722, -82.6151001]",Nouri,"['Accounting', 'Distribution-Shipping', 'Finance', 'General Business', 'Inventory', 'Management', 'Manufacturing', 'Professional Services', 'Purchasing-Procurement', 'Retail', 'Strategy-Planning', 'Supply Chain', 'Warehouse']",Finance & Operations Analyst,,,
+"[30.4382559, -84.2807329]",Nouri,['Marketing'],Digital Marketing Manager,,,92694
+"[33.2889226, -117.2255903]",NOVUS AUTO GLASS of Larimer County,"['Automotive', 'Entry Level', 'Installation-Maint-Repair', 'Skilled Labor']",Auto Glass Technician / Installer,37440.0,37440.0,80525
+"[47.6062095, -122.3320708]",NWA Cooling & Heating,"['Admin-Clerical', 'Customer Service', 'Human Resources', 'Marketing']",Office Manager/Dispatcher,40000.0,50000.0,72756
+"[39.9375911, -77.6611022]",One Stop Automotive,"['Automotive', 'Customer Service', 'Other', 'Retail']",SEEKING QUALIFIED AUTOMOTIVE MECHANIC FOR IMMEDIATE HIRE,,,85711
+,Oxford Laundry,"['Customer Service', 'Entry Level', 'General Business', 'Hospitality-Hotel', 'Management', 'Marketing', 'Professional Services', 'Retail', 'Strategy-Planning']",Customer Service Representative,24960.0,33280.0,83843
+,Palouse Animal Wellness and Surgery,['Veterinary Services'],Associate Veterinarian,,,83843
+"[33.7489954, -84.3879824]",Park Lane Medical Group,['Health Care'],Medical Assistant,31200.0,31200.0,75231
+"[34.9489645, -85.2569]",Partnership with Equis Financial,"['Business Development', 'Customer Service', 'Entry Level', 'Executive', 'Finance', 'General Business', 'General Labor', 'Health Care', 'Insurance', 'Management', 'Other', 'Professional Services', 'Sales', 'Training']",Sales Field Underwriter,26000.0,26000.0,
+"[33.5092103, -111.8990327]",Partnership with Equis Financial,"['Business Development', 'Customer Service', 'Education', 'Entry Level', 'Executive', 'Finance', 'General Business', 'General Labor', 'Health Care', 'Insurance', 'Management', 'Other', 'Professional Services', 'Sales', 'Skilled Labor', 'Training']",Leadership - Sales Field Underwriters,26000.0,26000.0,
+"[40.5556484, -75.9818772]",Party Games LLC,"['Customer Service', 'Other']",Video Game Coach,31200.0,31200.0,95650
+,Patriot Docks,"['Accounting', 'Distribution-Shipping', 'Entry Level', 'Inventory', 'Manufacturing']",Warehouse Worker,33280.0,47840.0,55032
+"[38.6715081, -77.9955519]",Paul M. Davis & Associates PC,"['Legal', 'Media-Journalism', 'Research']",Civil Litigation Attorney,115000.0,115000.0,75033
+"[25.7742658, -80.1936589]",Penn Valley Ind Service Inc. ,['Automotive'],Fork Lift Mechanic,30000.0,40000.0,19006
+"[32.7830556, -96.8066667]",Phoenix Cancer Institute,"['Health Care', 'Other', 'Science']",Radiation Therapist,74880.0,74880.0,86442
+"[42.8864468, -78.8783689]",Pioneer Electric Co,"['Construction', 'Installation-Maint-Repair', 'Skilled Labor']",Lead Electrician,49920.0,49920.0,37072
+"[32.7830556, -96.8066667]",Points Consulting,"['Real Estate', 'Research']",Real Estate & Economic Analyst,,,
+"[40.9487097, -73.7326309]",Pomegranate Schools,['Education'],Pre-K/Kindergarten Teacher,52000.0,52000.0,92620
+"[41.3113669, -105.5911007]",Ponsol Health,['Health Care'],Medical Assistant,35360.0,0.0,33138
+"[29.4291304, -97.1705425]",Pop Acta,"['Admin-Clerical', 'Design', 'Information Technology', 'Marketing']",Digital Marketing Specialist,50000.0,60000.0,
+"[32.4420826, -97.7941967]",PragerU,"['Design', 'Other']","Jr. Illustrator, Kids Content",65000.0,80000.0,
+"[32.9412363, -97.1341783]",PragerU,['Other'],Video Specialist,65000.0,85000.0,
+"[32.7830556, -96.8066667]",PragerU,"['Marketing', 'Other']","Director of Marketing, Kids Content",125000.0,175000.0,
+"[34.2257256, -77.9447102]",PragerU,"['Admin-Clerical', 'Customer Service', 'Other']",Receptionist,52000.0,56160.0,
+"[43.1547845, -77.6155568]",PragerU,['Marketing'],Social Media Manager (Education Focus),75000.0,100000.0,
+"[28.5383355, -81.3792365]",Premier Security,"['Professional Services', 'Security']",SECURITY OFFICER,,,97221
+"[40.4406248, -79.9958864]",Premiere Restoration,"['Accounting', 'Business Development', 'Construction', 'Executive', 'Facilities', 'General Business', 'Health Care', 'Hospitality-Hotel', 'Insurance', 'Inventory', 'Management', 'Marketing', 'Professional Services', 'Strategy-Planning', 'Training']",Operations Manager,90000.0,110000.0,56001
+"[39.1034569, -84.5152726]",PrideStaff Houston Northeast,"['Engineering', 'Manufacturing']",Project Engineer,75000.0,75000.0,77032
+"[43.0389025, -87.9064736]",Profiscience,['Information Technology'],Full-Stack Web Developer,60000.0,120000.0,75022
+"[39.9611755, -82.9987942]",Project Veritas,"['Executive', 'Management', 'Strategy-Planning']",Chief Development Officer,,,10543
+"[32.2217429, -110.926479]",Prototype Escape Games,"['Customer Service', 'Entry Level', 'General Business', 'Other']",Game Master,27040.0,29120.0,32224
+"[47.6062095, -122.3320708]",Providence Classical Christian School,['Education'],Teacher,,,98011
+"[33.7489954, -84.3879824]",Providence Senior Home LLC,['Health Care'],CAREGIVER ,,,
+"[35.4675602, -97.5164276]",PublicSq,[],"Executive Assistant (West Palm Beach, FL)",,,
+"[33.4222685, -111.8226402]",PublicSq,[],Scrum Master,,,
+"[33.4483771, -112.0740373]",PublicSq,[],Senior DevOps Engineer,,,
+"[39.0770072, -84.1768795]",PublicSq,[],Lead Backend Engineer,,,
+"[34.9387279, -82.2270569]",PublicSq,[],Director of Ux Design,,,
+"[46.7323875, -117.0001651]",PublicSq,[],Senior Accountant,75000.0,95000.0,
+"[47.0378741, -122.9006951]",PublicSq,[],Email Marketing Manager,,,
+"[33.3061605, -111.8412502]",Pure Service Pro,['Sales'],"Outside Sales Representative - $1,000 SIGN ON BONUS",,,7050
+"[43.6575747, -71.500352]",R&R Plumbing and Heating Inc.,['Construction'],Journeyman plumber and apprentice with experience,,,84333
+"[39.849557, -75.3557458]",Raceway Electric,['Skilled Labor'],Licensed Electrician,,,67211
+"[33.1192068, -117.086421]",RadioActive Threads,"['Consultant', 'Marketing', 'Retail', 'Sales']",Social Media Content Creator,,,73162
+"[44.0247062, -88.5426136]",Rahav Wellness,['Health Care'],Medical Assistant,45760.0,54080.0,10011
+"[26.4614625, -80.0728201]","Rapid Precision Manufacturing, Inc.  (RPM)",['Manufacturing'],CNC Machinist (Set-Up),,,57430
+"[33.0203211, -117.202813]",Rawhide Ranch ,"['Education', 'Entry Level', 'General Labor', 'Hospitality-Hotel', 'Other', 'Retail', 'Science', 'Skilled Labor', 'Veterinary Services']",Summer Camp Program Staff/Camp Counselor,,,92003
+"[43.0730517, -89.4012302]",RE/MAX FIRST,['Real Estate'],Real Estate Agent,,,37804
+"[37.9736111, -122.5311111]",Receivable Solutions,"['Entry Level', 'Finance', 'Health Care']",Medical Biller,,,
+"[41.8800296, -88.0078435]",Red Mountain Direct,['Media-Journalism'],Breaking News Reporter,,,
+"[39.1034569, -84.5152726]",RedBalloon LLC,"['Admin-Clerical', 'Customer Service', 'Entry Level']",Junior Customer Service Representative,24960.0,31200.0,
+"[33.6356618, -96.6088805]",RedBalloon LLC,"['Consultant', 'Customer Service', 'Human Resources', 'Management', 'Professional Services']",Account Manager,50000.0,60000.0,
+"[47.7623204, -122.2054035]",RedBalloon LLC,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'General Business', 'Human Resources']",Hiring Assistant,27040.0,35360.0,83843
+"[35.732652, -78.8502856]",Redstone Security Operations,"['Business Development', 'Information Technology', 'Sales']",Account manager,,,85260
+"[39.1731621, -77.2716502]",Reforged Controls LLC,"['Engineering', 'Information Technology', 'Manufacturing']",Process Control Engineer,90000.0,160000.0,
+,Refresh Cabinet Refinishing,"['General Labor', 'Skilled Labor']",Cabinet Refinisher,33280.0,33280.0,33186
+"[39.5538771, -104.9694264]",Republican Jobs,"['Accounting', 'Human Resources']",HR Manager/Director,100.0,110.0,78701
+,Republican Jobs,"['Accounting', 'Finance']",Financial Operations Specialist - Political Consulting Firm,,,
+"[41.850033, -87.6500523]",Republican Jobs,"['Accounting', 'Finance', 'Government', 'Professional Services']",Head of Financial Operations - Political Consulting Firm,100.0,100.0,
+"[43.8422049, -88.8359447]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[46.7323875, -117.0001651]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[41.1306041, -85.1288597]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[40.0892746, -75.3960211]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[43.6121087, -116.3915131]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[37.9886892, -84.4777153]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[29.9546482, -90.075072]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[40.0942664, -75.9113306]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[37.8929082, -79.4378166]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[42.8650864, -71.4934004]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[34.0522342, -118.2436849]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[47.6739882, -122.121512]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[35.7895271, -83.9737935]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[38.8338816, -104.8213634]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[38.8338816, -104.8213634]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[39.8083196, -104.9338675]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[32.7830556, -96.8066667]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[46.7323875, -117.0001651]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[46.7323875, -117.0001651]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[38.4495688, -78.8689156]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[32.7830556, -96.8066667]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[35.6266369, -120.6910043]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[33.7222445, -116.3744556]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+"[32.5890238, -96.3088693]",Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Republican Jobs,"['Marketing', 'Nonprofit-Social Services', 'Other']",Republican Field Organizers - Accepting Applications for the 2023-24 Cycle,42000.0,42000.0,
+,Restoration Chiropractic,"['Admin-Clerical', 'Health Care']",Chiropractic Assistant,33280.0,37440.0,43016
+,Restore Chiropractic and Health Center,"['Admin-Clerical', 'Customer Service']",Front Desk Personnel,37440.0,0.0,80027
+,REVERE PAYMENTS,"['Customer Service', 'Information Technology']","CHRISTIAN FINTECH CO Integration, Support & Onboarding Specialist",50000.0,60000.0,89144
+,REVERE PAYMENTS,"['Admin-Clerical', 'Banking', 'Customer Service', 'General Business']",CHRISTIAN PAYMENTS COMPANY - IMMEDIATE OPENING FOR CLIENT SUCCESS COORDINATOR/ONBOARDING ,55000.0,60000.0,33418
+,Richard C Annis OD PC,['Health Care'],Optometric Assistant,31200.0,31200.0,49406
+,Richland Drive Away Services,['Transportation'],Driver,,,
+,Righters Group,"['Entry Level', 'General Business', 'Government', 'Information Technology', 'Marketing', 'Nonprofit-Social Services']",Marketing Assistant (CONSERVATIVE NEEDED NOW!),35000.0,35000.0,23430
+,Rival Sourcing,['Finance'],Senior wealth advisor,120000.0,150000.0,
+,Rival Sourcing,[],Senior wealth advisor,120000.0,150000.0,
+,Rival Sourcing,[],Financial Planner ,70000.0,90000.0,
+,Rival Sourcing,"['Banking', 'Business Development', 'Finance', 'Professional Services', 'Sales']",Parallel Economy Financial Advisor,,,
+,Rival Sourcing,['Finance'],Financial Planner in the Parallel Economy,75000.0,125000.0,37027
+,Rival Sourcing,"['Accounting', 'Finance', 'Legal']",Director of Tax Planning and Compliance,150000.0,200000.0,
+,Rival Sourcing,"['Finance', 'Human Resources']",Parallel Economy Recruiters,,,93023
+,Rival Sourcing,"['Customer Service', 'Finance']",Financial Advisor,,,
+,Rival Sourcing,"['Consultant', 'Customer Service', 'Finance']",Independent Financial Advisor,,,
+,Rival Sourcing,"['Accounting', 'Finance']",Tax Manager,90000.0,120000.0,
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,32801
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,15219
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,45202
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,53202
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,43215
+,"Riverrock Group, LLC","['Business Development', 'Executive', 'Franchise', 'General Business', 'Management', 'Manufacturing', 'Marketing', 'Sales']",President/Owner,,,43215
+,"Riverrock Group, LLC","['Business Development', 'Executive', 'Franchise', 'General Business', 'Management', 'Manufacturing', 'Marketing', 'Sales']",President/Owner,150000.0,150000.0,35233
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Restaurant-Food Service', 'Retail', 'Sales']",CEO/Owner,,,37201
+,"Riverrock Group, LLC","['Business Development', 'Executive', 'Franchise', 'General Business', 'Management', 'Manufacturing', 'Marketing', 'Sales']",President/Owner,175000.0,175000.0,45202
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,15219
+,"Riverrock Group, LLC","['Accounting', 'Automotive', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Executive', 'Facilities', 'Franchise', 'General Business', 'Health Care', 'Human Resources', 'Information Technology', 'Installation-Maint-Repair', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Pharmaceutical', 'Purchasing-Procurement', 'Real Estate', 'Restaurant-Food Service', 'Retail', 'Sales']",President/Owner,200000.0,200000.0,28202
+,"Riverrock Group, LLC","['Executive', 'Franchise', 'General Business', 'Management', 'Manufacturing', 'Marketing', 'Sales']",President/Owner,,,46204
+,Robinhood Integrative health,['Health Care'],Pediatrician or Pediatrics/Family Nurse Practioner,,,
+,Rod Williams & Associates ,"['Business Development', 'Entry Level', 'Insurance', 'Sales']",Entry Level Sales,75000.0,75000.0,
+,Rollit Motors,"['Automotive', 'Installation-Maint-Repair', 'Skilled Labor', 'Transportation']",Auto Mechanic / Technician,52000.0,52000.0,85203
+"[33.5206608, -86.80249]",RW Beckett Corporation,"['General Business', 'Information Technology', 'Manufacturing']",ERP - Senior Business Analyst,100000.0,100000.0,44039
+"[33.5206608, -86.80249]","RWS Design and Controls, Inc.","['Engineering', 'Manufacturing']",Controls Engineer,70000.0,70000.0,61073
+"[43.0386368, -85.6700332]",Sackmann Financial Group,"['Business Development', 'Consultant', 'Finance', 'Insurance', 'Management', 'Professional Services', 'Sales', 'Strategy-Planning', 'Training']",Business Development Representative,40000.0,100000.0,
+"[42.3442482, -75.1704468]",Sage Dermatology,"['Admin-Clerical', 'Health Care']",Medical Assistant,37440.0,37440.0,80538
+"[32.3512601, -95.3010624]",SalesNexus.com,"['Business Development', 'Customer Service', 'Information Technology', 'Marketing', 'Sales', 'Training']",Sales Engineer,40000.0,100000.0,
+"[39.9022223, -95.8008225]",san pedro auto body,"['Automotive', 'General Labor', 'Installation-Maint-Repair']",Auto Body Technician,85000.0,85000.0,90731
+"[39.7391536, -104.9847034]",Savory Alaska,"['Grocery', 'Retail', 'Sales']",Farmers Market Sales Representative,31200.0,31200.0,
+"[32.7830556, -96.8066667]",Sawtooth Tax,"['Accounting', 'Admin-Clerical', 'Consultant', 'Finance']",Tax Manager,75000.0,100000.0,
+"[29.7632836, -95.3632715]",Schweitzer Fire District,"['Government', 'Health Care']",Resident Fire Fighter/EMT,,,83864
+"[42.158427, -72.3286928]",SEABOLT AND VINCENT,"['Automotive', 'Customer Service']",Chauffeur,57969.6,67912.0,10036
+,SEABOLT AND VINCENT,"['Accounting', 'Admin-Clerical', 'Consultant', 'Customer Service', 'General Labor']",Tax Intern,51064.0,54704.0,85251
+"[46.7323875, -117.0001651]",Seward Marketing,['Sales'],Sales Agent,,,54971
+"[36.3908826, -86.1672107]",Singing Hills Christian Camp and Conference Center,['Restaurant-Food Service'],Associate Food Service Manager,37440.0,41600.0,3781
+"[38.9716689, -95.2352501]",Siri & Glimstad,['Legal'],Attorney - Litigation - Civil Rights & Mandated Medicine,100000.0,180000.0,
+"[36.7280583, -108.2186856]",Siri & Glimstad,[],Attorney – Litigation – Data Breach and Privacy Class Actions,,,
+"[35.1477774, -114.5682983]",Siri & Glimstad,['Legal'],Attorney - Litigation - Medical Malpractice,,,
+"[33.6694649, -117.8231107]",Siri & Glimstad,['Legal'],Paralegal - Policy and Litigation,52000.0,83200.0,
+,Siri & Glimstad,['Legal'],Attorney – Medical Board Hearings,100000.0,180000.0,
+"[30.3118769, -95.4560512]",Siri & Glimstad,['Legal'],Attorney – Litigation – Freedom of Information Act,100000.0,180000.0,
+"[47.8600971, -122.2042966]",Siri & Glimstad,['Legal'],Attorney - Litigation - Toxic Torts,100000.0,180000.0,
+"[33.6189101, -117.9289469]",Siri & Glimstad,['Legal'],Attorney - Immigration,100000.0,180000.0,
+"[29.7632836, -95.3632715]",Siri & Glimstad,['Legal'],Attorney - Litigation - Class Actions,100000.0,180000.0,
+"[46.7323875, -117.0001651]",Siri & Glimstad,['Legal'],Attorney - Litigation - Vaccine Injury,100000.0,180000.0,
+"[35.772096, -78.6386145]",Siri & Glimstad,['Legal'],Attorney - Litigation - Family Law & Mandated Medicine,100000.0,180000.0,
+"[42.4894801, -83.1446485]",Siri & Glimstad,['Legal'],Attorney - Litigation - Employee Rights,100000.0,180000.0,
+"[42.6433584, -86.2005933]",SiteWise,"['Information Technology', 'Skilled Labor', 'Telecommunications']",ICT Copper/Fiber Cable Technician,49920.0,49920.0,46241
+"[33.5092103, -111.8990327]",Skell Inc,"['Admin-Clerical', 'Distribution-Shipping', 'Information Technology', 'Purchasing-Procurement', 'Sales']",E-Commerce Sales Logistics Associate,50000.0,50000.0,90405
+"[32.7830556, -96.8066667]",Skell Inc,"['General Business', 'Sales']",Amazon & eBay Marketplace Coordinator,65000.0,65000.0,90405
+"[37.6922361, -97.3375448]","Sky Valley NW, LLC","['Admin-Clerical', 'Customer Service', 'Executive', 'Health Care', 'Marketing']",Executive Director,45000.0,45000.0,97351
+"[30.267153, -97.7430608]",Slider Artworks,"['Construction', 'General Labor', 'Manufacturing', 'Other', 'Skilled Labor']",Woodworker,,,80223
+"[29.7632836, -95.3632715]",Snap Financial - Jorns & Associates ,"['Insurance', 'Sales']",Sales Agent,,,14604
+"[32.7830556, -96.8066667]",Sobo,['Information Technology'],Technical Support Analyst Tier 1,40000.0,40000.0,30318
+"[40.7142691, -74.0059729]",Sobo.ai,['Finance'],Financial Analyst,,,30318
+,Solution Based Therapeutics,"['Health Care', 'Nurse', 'Other']",LVN Detox Nurse,60000.0,75000.0,91325
+"[39.9611755, -82.9987942]",Sound Solution Group,"['Business Development', 'Construction', 'Design', 'Executive', 'Marketing', 'Sales']",Outside Sales Representative - Bay Area Territory,,,
+"[32.8472695, -117.274204]",Sound Solution Group,"['Business Development', 'Construction', 'Executive', 'Marketing', 'Sales']",Outside Sales Representative- Bay Area Territory ,,,
+"[32.7830556, -96.8066667]",Sound Solution Group,"['Business Development', 'Construction', 'Customer Service', 'Design', 'Marketing', 'Sales']",Outside Sales Representative- Bay Area Territory ,,,
+"[33.7358518, -118.2922934]",Sound Solution Group,"['Business Development', 'Construction', 'Customer Service', 'Design', 'Executive', 'Marketing', 'Sales']",Outside Sales Representative- Bay Area Territory,,,
+"[34.0231553, -84.3615928]",Sound Solution Group,"['Business Development', 'Construction', 'Customer Service', 'Design', 'Executive', 'Marketing', 'Sales']",Outside Sales Representative- Bay Area Territory,72000.0,120000.0,
+"[42.3442482, -75.1704468]",Southern Consulting,"['Construction', 'Engineering']",Engineering Technician,35360.0,35360.0,37055
+"[47.6062095, -122.3320708]",Southern Consulting,"['Construction', 'Engineering']",CAD Designer,41600.0,41600.0,37055
+"[48.2765903, -116.5532476]",Southern Consulting,"['Construction', 'Engineering']",Survey Party Chief,47840.0,47840.0,37055
+"[44.8512305, -123.1867655]",Speedy's Fast Track,"['Automotive', 'Customer Service', 'Entry Level', 'Facilities', 'General Business', 'Information Technology', 'Other', 'Telecommunications']",Track Attendant / Game room Attendant / Laser Tag Marshal / Game Tech - Technician,18720.0,29120.0,77092
+"[40.3977612, -105.0749801]",Stability Health Center,"['Health Care', 'Professional Services']",Patient Concierge,47840.0,47840.0,98109
+,Steve's Flowers and Gifts,"['Retail', 'Transportation']",Floral Delivery Driver,24960.0,31200.0,46064
+"[46.7323875, -117.0001651]",Stonecrop Wealth Advisors,['Finance'],Financial Advisor,70000.0,90000.0,19283
+"[40.3977612, -105.0749801]",Story Real Estate,['Real Estate'],Listing Specialist (Real Estate Agent),,,
+"[32.7830556, -96.8066667]",Story Real Estate,['Real Estate'],Real Estate Agent,,,
+"[29.7632836, -95.3632715]",Story Real Estate,"['Real Estate', 'Sales']",Inbound Sales Agent,,,83843
+"[29.7632836, -95.3632715]",Story Real Estate,"['Real Estate', 'Sales']",Outbound Sales Agent,,,83843
+"[47.329264, -122.5801293]",Story Real Estate,"['Business Development', 'Customer Service', 'Real Estate', 'Sales']",Director of Lead Generation,35000.0,35000.0,83843
+"[45.7809491, -122.5334307]",Story Real Estate,"['Real Estate', 'Sales']",Buyer Specialist (Real Estate Agent),,,83843
+"[34.9387279, -82.2270569]",StratTech Solutions LLC,['Information Technology'],Level II Support/Network Engineer,,,85206
+"[39.531381, -104.861962]",Strive,['Marketing'],Marketing Generalist,,,43017
+"[33.9412127, -84.2135309]",Strive,"['Government', 'Legal']","Associate, Corporate Governance",,,43017
+"[33.5261365, -117.6238946]",Strive,"['Admin-Clerical', 'Legal']",Paralegal,,,43017
+"[36.3231067, -86.7133302]",Striventa,"['Consultant', 'Entry Level', 'Marketing']",HubSpot Specialist,40000.0,40000.0,85306
+"[39.6428362, -84.2866083]",Students For Life,"['Marketing', 'Media-Journalism']",Videographer,,,22401
+"[33.4483771, -112.0740373]",Sulzer Machine & Manufacturing Inc,['Manufacturing'],Maintenance,,,54455
+"[30.3679788, -97.991679]",Sulzer Machine & Manufacturing Inc,['Manufacturing'],Machinist / CNC Machinist / Machine Operator,,,54455
+,Sulzer Machine & Manufacturing Inc,['Manufacturing'],Painter,,,54455
+"[30.3321838, -81.655651]",Sundrops Vitamins & Nutrition,"['Distribution-Shipping', 'Inventory', 'Purchasing-Procurement', 'Retail']","Inventory Receiving, Pricing, Shipping, Ordering",40000.0,42000.0,75206
+"[48.9465044, -122.4521073]",Superior Facets LLC,"['Construction', 'Skilled Labor']",Carpenter,52000.0,75000.0,78736
+"[34.9387279, -82.2270569]",Superior Windshield Repair ,"['Automotive', 'Customer Service', 'Installation-Maint-Repair', 'Skilled Labor', 'Transportation']",Auto Glass Technician,29120.0,52000.0,21401
+"[36.0726355, -79.7919754]",Susan B. Anthony Pro-Life America,"['Media-Journalism', 'Nonprofit-Social Services', 'Other']",Vice President of Communications,,,22206
+"[32.8406946, -83.6324022]",Sweeney Family Chiropractic,"['Admin-Clerical', 'Customer Service', 'Entry Level']",Chiropractic Assistant/Receptionist,37440.0,37440.0,98103
+"[39.0062204, -77.4285992]",Switch to American Made,"['Accounting', 'Admin-Clerical', 'Business Development', 'Consultant', 'Customer Service', 'Distribution-Shipping', 'Education', 'Entry Level', 'General Business', 'General Labor', 'Health Care', 'Human Resources', 'Management', 'Manufacturing', 'Marketing', 'Nurse', 'Other', 'Pharmaceutical', 'Retail', 'Sales', 'Training']",Marketing Representative,,,
+"[29.7632836, -95.3632715]",Sycamore Physicians,"['Health Care', 'Information Technology']",CRM App Developer / Sys Admin,60000.0,80000.0,
+"[33.4483771, -112.0740373]",Syllabus Consulting,"['Management', 'Marketing', 'Sales']","Various Advertising and Sales Managers, Associates, and Interns",7000.0,30000.0,63401
+"[33.8981579, -84.2832564]",Symmetry Financial division of Quility,"['Other', 'Sales']",Great Culture Remote Opportunity Sales,,,10017
+"[34.2783352, -119.2931676]","T.P. Monahan, Inc.","['Construction', 'General Labor', 'Installation-Maint-Repair', 'Skilled Labor']",Roofer,41600.0,41600.0,12804
+"[27.3364347, -82.5306527]",Tapped - Taphouse & Kitchen,['Restaurant-Food Service'],Tapped is hiring for Evening Servers!,,,83843
+"[27.197548, -80.2528257]",Tech One Solutions,['Information Technology'],IT Support Technician,45760.0,68640.0,17201
+"[39.2673284, -76.7983067]",Techless,"['Finance', 'General Business', 'Human Resources']",Office Specialist,50000.0,50000.0,77984
+"[41.1306041, -85.1288597]","Technique, Inc.",['Manufacturing'],CNC Programmer/Operator,52000.0,72800.0,49201
+"[43.37006, -79.81403]",Telethink,['Health Care'],Broker/Wholesaler - Telehealth Care - 100% Remote,,,30076
+"[27.3364347, -82.5306527]",Telios Law PLLC,"['Facilities', 'General Labor', 'Other', 'Skilled Labor']",Household Manager,52000.0,56160.0,
+"[41.2586096, -95.937792]",Telios Law PLLC,"['Consultant', 'Human Resources', 'Legal']",Workplace Investigator,55000.0,70000.0,80132
+"[32.725409, -97.3208496]",Telios Law PLLC,['Legal'],Attorney,70000.0,90000.0,80132
+"[47.3073228, -122.2284532]",Telios Law PLLC,"['Admin-Clerical', 'Legal']",Paralegal/Legal Secretary,40000.0,60000.0,80132
+"[47.4828776, -122.2170661]",Tenicor,"['General Business', 'Human Resources', 'Inventory', 'Management', 'Manufacturing']",Operations Lead,49920.0,0.0,83843
+"[43.3772932, -73.6131714]",Terrain ,['Health Care'],Strength and conditioning coach,,,98225
+"[34.9530337, -120.4357191]",Texas Orthopedics and Sports Medicine,['Health Care'],Physician Assistant,85000.0,120000.0,77375
+"[45.5234515, -122.6762071]",The Alpine Wurst and Meat House Inc.,"['Grocery', 'Restaurant-Food Service']",sausage processor/manufacturer,33280.0,33280.0,18431
+"[30.267153, -97.7430608]",The Anderson Search Group,"['Business Development', 'Sales']",Business Development Respresentative,40000.0,40000.0,49546
+"[45.7809491, -122.5334307]",The Bahnsen Group,[],Bookkeeper,45000.0,60000.0,
+"[38.3358857, -90.1498341]",The Bahnsen Group,"['Finance', 'Strategy-Planning']",Director of Financial Planning,130000.0,160000.0,92627
+"[34.9387279, -82.2270569]",The Bahnsen Group,"['Accounting', 'Admin-Clerical', 'Consultant', 'Finance', 'General Business', 'Management']",Tax Associate,50000.0,80000.0,
+"[46.7323875, -117.0001651]",The Better Way Property Maintenance,['General Labor'],Cyclist Lawn Maintenance Laborer,41600.0,41600.0,L7L 2E6
+"[35.772096, -78.6386145]",The Bottom Line LLC,"['Accounting', 'Admin-Clerical', 'Business Development', 'General Business', 'Professional Services']",Full Charge Bookkeeper,41600.0,52000.0,99336
+"[34.9387279, -82.2270569]",The Crazy Italian LLC,['Restaurant-Food Service'],Experienced Line Cook,,,70124
+"[45.7809491, -122.5334307]",The Daily Caller,['Media-Journalism'],Video Production Specialist ,40000.0,55000.0,20006
+"[37.2265282, -76.0013217]",The Daily Caller,['Media-Journalism'],Social Media Coordinator,40000.0,55000.0,20006
+"[33.7669623, -118.1892348]",The Farm at New garden Park,['Skilled Labor'],Farm Production Manager,35000.0,35000.0,27282
+,"The Farm, LLC","['Consultant', 'Design', 'Facilities', 'Hospitality-Hotel', 'Installation-Maint-Repair', 'Management', 'QA-Quality Control']",Regional Estate Manager,95000.0,115000.0,
+,"The Farm, LLC","['Admin-Clerical', 'Facilities', 'General Labor', 'Hospitality-Hotel', 'Management']",Regional Estate Manager,75000.0,88000.0,
+"[30.3344077, -81.398696]","The Farm, LLC","['Customer Service', 'Facilities', 'General Labor', 'Hospitality-Hotel', 'Installation-Maint-Repair', 'Management']",Regional Estate Manager,,,
+"[33.6694649, -117.8231107]","The Farm, LLC","['Hospitality-Hotel', 'Restaurant-Food Service']",Estate Chef - Southern Cuisine,75000.0,90000.0,
+"[39.271226, -74.7434965]","The Farm, LLC","['Facilities', 'Installation-Maint-Repair', 'Management', 'Skilled Labor']",Regional Director of Estate Facilities Operations - Central Kentucky Region,,,40510
+"[41.4080534, -92.9163091]","The Farm, LLC","['Admin-Clerical', 'Customer Service', 'Management', 'Real Estate']",Regional General Manager,92000.0,92000.0,
+"[38.8338816, -104.8213634]","The Farm, LLC","['Management', 'Marketing', 'Media-Journalism', 'Sales']",Deputy Director of Marketing,,,34747
+,"The Farm, LLC","['Admin-Clerical', 'Customer Service', 'Real Estate']",Director of Guest Experiences,,,34747
+"[33.6231602, -95.6994059]","The Farm, LLC","['Executive', 'Installation-Maint-Repair', 'Management', 'Strategy-Planning']",National Director of Aquatic Operations,,,34747
+"[34.1683386, -118.6059197]","The Farm, LLC","['Admin-Clerical', 'Construction', 'Customer Service', 'Facilities', 'Hospitality-Hotel', 'Management', 'Real Estate']",Regional Estate Manager,62000.0,62000.0,
+"[36.9823709, -76.6310662]","The Farm, LLC","['Business Development', 'Executive', 'Marketing', 'Sales', 'Strategy-Planning']",Executive Vice President for Sales & Growth,160000.0,160000.0,34747
+"[33.5386523, -112.1859866]",The Featherweight Shop,"['Design', 'Marketing']",Graphic Designer (for vintage sewing machine company),,,83539
+"[41.9430986, -86.5569659]",The Heritage Foundation,['Other'],Fall Internship,27040.0,0.0,
+"[35.2219971, -101.8312969]",The Holistic Mental Health Clinic,"['Health Care', 'Professional Services']","Mental Health Counselor (LMHC), Marriage and Family Therapist (LMFT), Clinical Social Worker (LCSW)",,,33703
+"[42.2830786, -87.9531303]",The Law Group,['Legal'],Bilingual Receptionist,,,28401
+"[41.9200472, -84.6305101]",The Legacy Lawyers,['Legal'],Litigation Paralegal ,53000.0,91000.0,90503
+"[42.4133505, -89.0092742]",The Legacy Lawyers,['Legal'],Probate Paralegal,53000.0,91000.0,92612
+"[40.0378755, -76.3055144]",The Legacy Lawyers,['Legal'],Records Specialist,45448.0,45448.0,92612
+"[27.9475216, -82.4584279]",The Legacy Lawyers,['Legal'],Attorney,102705.0,206815.0,90503
+"[33.4483771, -112.0740373]",The Legacy Lawyers,['Legal'],Attorney,102705.0,206815.0,92612
+"[34.7370639, -82.2542834]",The Massage Studio,"['Admin-Clerical', 'Customer Service', 'Other', 'Professional Services']",Part -Time Spa Manager,39520.0,39520.0,19406
+"[41.5964825, -73.91097]",The Ondrick Group,"['Entry Level', 'Finance', 'Insurance', 'Sales']",Life Insurance Agent,,,
+"[39.5500485, -86.0797079]",The Pacific Companies (TPC),"['Construction', 'Insurance', 'Real Estate', 'Sales']",Insurance Specialist,,,
+"[40.2338438, -111.6585337]",The Pacific Companies (TPC),"['Construction', 'Management']",Sr. Construction Project Manager,120000.0,300000.0,
+"[40.2338438, -111.6585337]",The Power Connection,['Construction'],Commerical Assistant Estimator,,,22801
+"[36.0770048, -87.3877899]",The Washington Times,['Media-Journalism'], Design Layout Editor,,,20002
+"[36.0770048, -87.3877899]",The Washington Times,['Media-Journalism'],Video Producer,,,20002
+"[36.0770048, -87.3877899]",Thompson Valley Chiropractic,"['Customer Service', 'Health Care', 'Professional Services']",Licensed Massage Therapist,72800.0,72800.0,80537
+"[35.7826363, -80.8872959]",Todd Dexter & Associates,"['Accounting', 'Admin-Clerical']",Account Coordinator,35000.0,50000.0,
+,Todd Expediting,['Transportation'],3rd Shift Night Drop Box Driver,41600.0,41600.0,80216
+"[33.4483771, -112.0740373]",Total Facility Care,"['Facilities', 'General Labor', 'Other', 'Skilled Labor']","Carpet Cleaning/Floor Care Tech - Full-time, $18.50 to start",37440.0,37440.0,80538
+"[46.7323875, -117.0001651]",Trade-Wind Manufacturing,"['Admin-Clerical', 'Customer Service', 'Distribution-Shipping', 'Management', 'Manufacturing', 'Strategy-Planning', 'Training', 'Warehouse']",Customer Service Manager,45000.0,52000.0,85007
+"[46.7323875, -117.0001651]",Transform NC LLC,"['Construction', 'Management', 'Skilled Labor']",Project Manager and Estimator,,,
+"[46.7323875, -117.0001651]",Treefort,"['Engineering', 'Information Technology']",Full-Stack Web Developer,,,83843
+"[32.7830556, -96.8066667]","Trinet Internet Solutions, Inc.","['Engineering', 'Information Technology']",Senior Programmer,,,92618
+"[32.7830556, -96.8066667]",Trinity Surfaces,['Warehouse'],Warehouse Associate,,,32808
+"[32.7830556, -96.8066667]",Troy Insurance,"['Business Development', 'Customer Service', 'Entry Level', 'Finance', 'Human Resources', 'Insurance']",Insurance Customer Service Agent ,42500.0,47500.0,
+"[46.1448942, -115.9779188]",True Life Chiropractic,"['Customer Service', 'Health Care']",Chiropractic Patient Care Advocate,31200.0,31200.0,30742
+"[38.9687213, -77.3410958]",TruPlay Games,['Engineering'],Product Manager,,,78746
+"[33.5206608, -86.80249]",Turning Point U.S.A.,[],Turning Point Academy Social Media Administrator ,,,
+"[36.1658899, -86.7844432]",Turning Point U.S.A.,[],Social Media Administrator,,,85044
+,Turning Point U.S.A.,[],Real Alex Clark Brand Producer,,,85044
+,Turning Point U.S.A.,[],POPlitics Social Media Administrator,,,
+"[30.267153, -97.7430608]",Turning Point U.S.A.,[],Influencer Media Administrator,,,85044
+"[39.1034569, -84.5152726]",Turning Point U.S.A.,['Legal'],In House Counsel,,,85044
+"[27.8005828, -97.396381]",Turning Point U.S.A.,[],Email Marketing Administrator,,,
+"[39.7391536, -104.9847034]",Turning Point U.S.A.,[],Database Coordinator,40000.0,45000.0,85044
+"[40.0378755, -76.3055144]",Turning Point U.S.A.,[],College Field Representative - Bayou,,,
+"[47.8209301, -122.3151313]",Turning Point U.S.A.,['Entry Level'],College Field Representative - Red River,,,
+,Turning Point U.S.A.,[],BLEXIT Social Media Administrator,,,
+"[30.267153, -97.7430608]",Turning Point U.S.A.,['Entry Level'],College Field Representative - Sierra,,,
+"[33.0848442, -97.2961286]",Turning Point U.S.A.,"['Marketing', 'Media-Journalism']",Digital Marketing Specialist,,,
+,Turning Point U.S.A.,"['Education', 'Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services']",High School Field Representative - Bluegrass,,,
+"[26.339806, -81.7786972]",Turning Point U.S.A.,"['Admin-Clerical', 'Education', 'Government', 'Marketing', 'Media-Journalism']",Distribution Administrator,,,
+"[46.7323875, -117.0001651]",Turning Point U.S.A.,"['Admin-Clerical', 'Business Development', 'Management', 'Nonprofit-Social Services']",Direct Response Administrator,,,
+"[40.4406248, -79.9958864]",Turning Point U.S.A.,"['Business Development', 'Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services']",Donor Relations Officer,,,
+"[35.2270869, -80.8431268]",Turning Point U.S.A.,"['Admin-Clerical', 'Education', 'Management', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Training']",Events Administrator,,,
+"[27.8005828, -97.396381]",Turning Point U.S.A.,"['Admin-Clerical', 'Management', 'Marketing', 'Media-Journalism']",Faith Program Administrator,,,
+"[36.7280583, -108.2186856]",Turning Point U.S.A.,"['Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Research']",Frontlines Social Media Administrator,,,
+"[36.7280583, -108.2186856]",Turning Point U.S.A.,"['Design', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services']",Graphic Designer,,,
+"[36.7280583, -108.2186856]",Turning Point U.S.A.,"['Education', 'Entry Level', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Research']",High School Administrator,,,
+"[36.7280583, -108.2186856]",Turning Point U.S.A.,"['Education', 'Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Research']",News Producer,,,
+"[34.0194543, -118.4911912]",Turning Point U.S.A.,"['Business Development', 'Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services']",Show Producer,,,
+"[41.1342184, -83.861606]",Turning Point U.S.A.,"['Government', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Research']",Social Media Administrator (YouTube Focused),,,
+"[45.5234515, -122.6762071]",Turning Point U.S.A.,"['Entry Level', 'Marketing', 'Media-Journalism', 'Nonprofit-Social Services', 'Research']",Social Media Show Producer,,,
+"[46.7323875, -117.0001651]",Turning Point U.S.A.,"['Education', 'Government', 'Marketing', 'Media-Journalism']",High School Field Coordinator - Detroit,,,
+"[45.7809491, -122.5334307]",Turning Point U.S.A.,"['Education', 'Government', 'Marketing', 'Media-Journalism']",College Field Representative - Hawkeye,,,
+"[33.5092103, -111.8990327]",Turning Point U.S.A.,"['Entry Level', 'Human Resources', 'Marketing', 'Nonprofit-Social Services']",College Field Representative - Commonwealth,,,
+"[39.0997266, -94.5785667]",Turning Point U.S.A.,"['Entry Level', 'Human Resources', 'Marketing', 'Nonprofit-Social Services']",High School Field Representative - Capitol,,,
+,Turning Point U.S.A.,"['Admin-Clerical', 'Business Development', 'Marketing']",High School Field Representative - Dixie,,,
+"[35.0136831, -97.3611395]",Turning Point U.S.A.,"['Admin-Clerical', 'Marketing', 'Media-Journalism']",High School Field Representative - Lone Star,,,
+"[30.267153, -97.7430608]",Turning Point U.S.A.,['Admin-Clerical'],College Program Administrator,,,
+"[45.7916192, -97.7509366]",TWO MEN AND A TRUCK,"['Distribution-Shipping', 'General Labor']",Drivers/General Laborer,37440.0,37440.0,80907
+"[41.9227056, -111.8135571]",Uncommon Good,"['Customer Service', 'General Labor', 'Grocery', 'Nonprofit-Social Services']",Urban Farm and Pantry Assistant,35360.0,45760.0,91711
+"[38.9822282, -94.6707917]",Urban Tactical Security,"['Customer Service', 'Facilities', 'Hospitality-Hotel', 'Legal', 'Security']",Security Guard,,,85345
+,Vanderberg Cleaning Service LLC,"['Customer Service', 'General Business', 'Management', 'Professional Services']",Janitorial Director,,,
+"[39.7683765, -86.1580423]",Vanderberg Cleaning Service LLC,"['Entry Level', 'General Labor', 'Professional Services']",Cleaning Technician,,,56001
+"[41.5767552, -75.2587871]",VaVia,"['Management', 'Marketing', 'Other', 'Sales', 'Transportation']",General Manager,,,35216
+"[37.9747644, -87.5558482]",Veritas Academy,['Education'],Teachers-Lower and Upper School,,,17540
+"[40.8259332, -74.2090344]",Wages Corp,['General Labor'],Vehicle Inspector in Railyard,35360.0,35360.0,85034
+,Wagner Drywall/Beach Beverage Redemption,[],Assistant Manager for Redemption Center,37440.0,0.0,
+"[40.3931033, -84.3760612]","Warehouse Cubed Consulting, LLC","['Construction', 'Consultant', 'Sales', 'Warehouse']",Project Manager and Inside Sales Representative,60000.0,60000.0,30046
+"[40.1573169, -76.3069014]",Well Rooted Gardens,['General Labor'],Landscape Crew Member - Christian Company,37440.0,37440.0,68152-5112
+"[34.0522342, -118.2436849]",Werkz LLC,[],Customer Service,36400.0,42640.0,83855
+"[31.549333, -97.1466695]","West Wind Reinforcing, LLC","['Accounting', 'Admin-Clerical', 'Construction']",Payroll Assistant,41600.0,47840.0,97032
+,"West Wind Reinforcing, LLC",['Construction'],Project Manager,95000.0,145000.0,97032
+"[31.549333, -97.1466695]",Whatcom Landscapes,"['Construction', 'General Business', 'General Labor']",Irrigation Crew Lead,37440.0,54080.0,98264
+"[31.549333, -97.1466695]",Wheeler & Gray,"['Design', 'Engineering', 'Professional Services']",Structural Engineer,100000.0,130000.0,91016
+"[31.549333, -97.1466695]",Wheeler & Gray,"['Design', 'Engineering', 'Professional Services']",Civil Engineer,85000.0,145000.0,91016
+"[31.549333, -97.1466695]",Whitaker Dog Day Camp LLC,"['Construction', 'Customer Service', 'Entry Level', 'Facilities', 'General Business', 'General Labor', 'Other', 'Retail', 'Security', 'Skilled Labor', 'Transportation', 'Veterinary Services', 'Warehouse']",Dog Daycare Assistant Manager / Driver,,,90039
+"[31.549333, -97.1466695]","White, Zuckerman, Warsavsky, Luna & Hunt LLP",['Accounting'],Senior Accountant/Manager,85000.0,130000.0,92614
+"[32.3512601, -95.3010624]",Wild Roots,['Education'],Educator Assistant,,,12590
+"[32.3512601, -95.3010624]",With Love & Co,"['Customer Service', 'Manufacturing', 'Retail', 'Sales']",Retail Sales Associate,27040.0,41600.0,89135
+"[32.3512601, -95.3010624]","Woodside Temporaries, Inc.","['Construction', 'General Labor', 'Government', 'Manufacturing', 'Skilled Labor']",Cabinet Maker,49920.0,62400.0,
+"[33.4483771, -112.0740373]",Wooster's Pizzeria,"['Business Development', 'Management', 'Marketing', 'Restaurant-Food Service']",Restaurant Manager,35000.0,40000.0,83843
+"[46.7323875, -117.0001651]",Work at Home United,"['Admin-Clerical', 'Business Development', 'Consultant', 'Customer Service', 'Education', 'Entry Level', 'Executive', 'General Business', 'Grocery', 'Health Care', 'Management', 'Manufacturing', 'Marketing', 'Media-Journalism', 'Other', 'Retail', 'Sales', 'Supply Chain', 'Telecommunications', 'Training']",Remote Marketing and Advertising Agents (USA and Canada),,,
+"[46.7323875, -117.0001651]",Work At Home United - Forever American,"['Consultant', 'General Business', 'Marketing', 'Sales']",Work From Home,,,20874
+"[39.7683765, -86.1580423]",Worthington A/C & Heating LLC,['Construction'],HVAC Service Technician,,,34446
+"[30.267153, -97.7430608]","YCE, Inc.",['Engineering'],"Civil/AG Engineer, Land Surveyor. & AutoCAD Technician",,,93003
+"[34.0522342, -118.2436849]",Zion Mountain Ranch,"['Accounting', 'Executive', 'Finance']",Hospitality Chief Financial Officer,,,
+"[38.7509488, -77.4752667]",Zion Mountain Ranch,"['Hospitality-Hotel', 'Management', 'Restaurant-Food Service']",Sous Chef  ,,,
+"[38.7509488, -77.4752667]",Zion Mountain Ranch,"['Admin-Clerical', 'Customer Service', 'Entry Level', 'Hospitality-Hotel']",Front Desk Assistant  ,12.0,16.0,
+"[38.7509488, -77.4752667]",Zion Mountain Ranch,"['Customer Service', 'Entry Level', 'General Labor', 'Hospitality-Hotel', 'Retail']","Retail, Cafe, and Campground Staff",24960.0,37440.0,
+"[38.7509488, -77.4752667]",Zoe Juice Bar,"['Customer Service', 'Entry Level']",Customer Service,,,98501
