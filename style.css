@@ -1,19 +1,12 @@
 
 
 .intro {
-    font-family: 'Bangers';
-    text-align: center;
-    padding: 0.75rem;
-
-}
-
-.imagegraph{
-    max-width: 1200px;
-    padding-top: 100px;
     margin: 0 auto;
-    align-content: center;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    font-family: 'Bangers';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    padding-bottom: 0
 }
 
 
@@ -56,6 +49,7 @@
 }
 body {
     background-color: #D3C5C5;
+    font-feature-settings: 'kern'1, 'onum'0, 'liga'0, 'tnum'1;
     color: black;
     background-size: 100%;
     padding-bottom: 100px;
@@ -84,18 +78,6 @@ p {
     /* background-color: rgba(211, 197, 197, 0.1) */
 }
 
-  
-.quote{
-    margin: auto;
-    max-width: 800px;
-    font-size: 24px;
-    line-height : 30px;
-    margin-top: 70px;
-    /* border-left: 3px solid #e4b363;
-    padding-left: 15px; */
-
-}
-
 .main-body{
     font-size: 21px;
     line-height : 30px;
@@ -112,13 +94,10 @@ p {
     padding: 3em;
     }
 
-/* .intro{
-    background-color: aqua;
+.section {
+    max-width: 760px;
+    margin: 0 auto;
 }
-
-.section1{
-    background-color: aquamarine;
-} */
 
 .section-header{
     text-align: center;
@@ -132,10 +111,68 @@ p {
     font-weight: 900;
 }
 
+img {
+    max-width: 100%
+}
+
+.full-size-image {
+    max-width: 1;
+    margin: 0 auto;
+}
+.plot-holder {
+    margin-bottom: 1em;
+}
+
+.plot-holder .caption {
+    color: #323a40;
+    text-align: right;
+    font-size: 0.75em;
+}
+
+.plot-holder h3 {
+    font-size: 2em;
+}
+
+.plot-holder .subtitle {
+    font-weight: bold;
+}
+.chart-section {
+    background-size: 100%;
+    background: #fffafa;
+    padding: 30px 0 0px 0;
+    /* margin-top: 0.1rem; */
+    margin-bottom: 1rem;
+    color: #323a40
+}
+
+.chart-section .chart-title {
+    font-family: 'Bangers';
+    text-align: center;
+    margin: 0 auto;
+    /* margin-bottom: 3rem; */
+    font-size: 30px;
+    font-weight: 300;
+}
 .chart{
-    padding-top: 30px;
-    padding-bottom: 30px;
-    /* max-width:2000px !important; */
+    padding-left: 0rem;
+    margin-top: 3px;
+    /* margin: 0 auto;  */
+
+}
+.chart-notes {
+    font-family: 'Bangers';
+    font-size: 12px;
+    max-width: 760px;
+    padding-left: 3rem;
+    padding-top: 2rem;
+    margin: 0 auto;
+}
+
+.chart-tableau{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    /* margin-top: 7px; */
+    margin: 0 auto; 
 }
 
 .Sources{
