@@ -12,13 +12,13 @@
 
 .intro .byline {
     font-family: 'Bangers';
-    font-size: 1.5em;
+    font-size: 23px;
     font-weight: 200;
-    margin-top: 5px
+    margin: auto
 }
 .intro .big {
     font-family: 'Bangers';
-    font-size: 3.75em;
+    font-size: 60px;
     line-height: 1.3;
     margin: 0 auto;
     font-weight: 300;
@@ -43,7 +43,7 @@
     line-height: 25px;
     margin: auto;
     padding-top: 30px;
-    padding-bottom:50px;
+
 
 
 }
